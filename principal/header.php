@@ -1,4 +1,7 @@
 
+
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
 <head>
     <title>UNAT</title>
     <meta name="format-detection" content="telephone=no">

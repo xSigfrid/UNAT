@@ -25,7 +25,7 @@
                                     <li>
                                         <div class="unit unit-spacing-xs">
                                             <div class="unit-left"><span class="icon mdi mdi-checkbook-arrow-right"></span></div>
-                                            <div class="unit-body"><a class="address" href="#">INTRANET</a></div>
+                                            <div class="unit-body"><a class="address" href="nosotros.php">INTRANET</a></div>
                                         </div>
                                     </li>
                                     <li>

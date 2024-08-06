@@ -1,12 +1,4 @@
-<?php
-?>
-
-
-
-
-<!DOCTYPE html>
-<html class="wide wow-animation" lang="en">
-    <?php include('principal/header.php') ?>
+<?php include('principal/header.php') ?>
 
 <body>
 <div class="preloader">
