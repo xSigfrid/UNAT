@@ -25,7 +25,7 @@
                                     <li>
                                         <div class="unit unit-spacing-xs">
                                             <div class="unit-left"><span class="icon mdi mdi-checkbook-arrow-right"></span></div>
-                                            <div class="unit-body"><a class="address" href="nosotros.php">INTRANET</a></div>
+                                            <div class="unit-body"><a class="address" href="https://sisacad.unat.edu.pe/zetunat_amazon/zet/index.php">INTRANET</a></div>
                                         </div>
                                     </li>
                                     <li>
@@ -43,11 +43,11 @@
 
 <!--                                <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Inicio</a>-->
 <!--                                </li>-->
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">UNAT</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">La Universidad</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
-                                            <h6 class="rd-megamenu-title">UNAT</h6>
+                                            <h6 class="rd-megamenu-title">la Universidad</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Sobre Nosotros</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Misión</a></li>
@@ -81,10 +81,12 @@
                                     </ul>
                                 </li>
 
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Admisión 1</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Admisión</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
+                                        <h6 class="rd-megamenu-title"><a  href="https://admision.unat.edu.pe/"> ADMISION </h6>
+
                                             <h6 class="rd-megamenu-title"> Regular </h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Vacantes </a></li>
@@ -99,7 +101,7 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">Ingreso Cepre UNAT</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Cepre </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://unat.edu.pe/centro-pre-universitario/">Cepre </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Resultado </a></li>
                                             </ul>
                                             <br>
@@ -107,14 +109,45 @@
                                     </ul>
                                 </li>
 
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Pre Grado</a>
+                                    <!-- RD Navbar Megamenu-->
+                                    <ul class="rd-menu rd-navbar-megamenu">
+                                        <li class="rd-megamenu-item">
+                                        <h6 class="rd-megamenu-title"><a  href="https://admision.unat.edu.pe/"> NUESTRAS </h6>
+
+                                            <h6 class="rd-megamenu-title"> CARRERAS </h6>
+                                            <ul class="rd-megamenu-list">
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Ingenieria Industrial </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Ingenieria Forestal y Ambiental</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria en Industrias Alimentarias</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria Civil</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria Industrial</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Enfermeria</a></li>
+                                            </ul>
+                                            <br>
+
+                                        </li>
+                                        <li class="rd-megamenu-item">
+                                            <h6 class="rd-megamenu-title">DOCUMENTOS</h6>
+                                            <ul class="rd-megamenu-list">
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Regalamento Academico </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Calendario Aacademico </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">TUPA </a></li>
+                                            </ul>
+                                            <br>
+                                        </li>
+                                    </ul>
+                                </li>
+
+
                                 <li class="rd-nav-item"><a class="rd-nav-link" href="#">Investigación</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
-                                            <h6 class="rd-megamenu-title">Investigación</h6>
+                                            <h6 class="rd-megamenu-title"><a  href="https://vri.unat.edu.pe/">Instituto de Investigación</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Investigación Formativa </a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Semilleros de Investigación</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Incubadora Universitaria </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Repositorio</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Articulos Cientificos</a></li>
                                             </ul>
                                             <br>
@@ -128,17 +161,17 @@
 
                                         </li>
                                         <li class="rd-megamenu-item">
-                                            <h6 class="rd-megamenu-title">Documentos</h6>
+                                            <h6 class="rd-megamenu-title">Dirección de incubadoras de Empresas</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Documentos - Reglamentos</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Instituto de Investigación </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Incuba UNAT </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Directorio Interno </a></li>
                                             </ul>
 
                                             <br>
-                                            <h6 class="rd-megamenu-title">Instituto de Investigación</h6>
+                                            <h6 class="rd-megamenu-title">Dirección de Innovacion y transferencia Tecnologica</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Incubadora Universitaria</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://incuba.unat.edu.pe/">Documentos</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Repositorio</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Articulos</a></li>
                                             </ul>
