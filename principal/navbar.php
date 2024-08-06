@@ -81,7 +81,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Admisión</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Admisión 1</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
