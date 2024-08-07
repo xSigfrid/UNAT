@@ -58,9 +58,10 @@
           <div class="row row-60">
             <div class="col-md-7 col-xl-8">
               <div class="single-service"><img src="images/single-service-1-770x426.jpg" alt="" width="770" height="426"/>
-                <h4>Pay Per click</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h4>INGENIERIA CIVIL</h4>
+                <p>Ingenieria Civil: Aborda desafíos y resolución de problemas</p>
+                <p> ¿Porque estudiar Ingenieria Civil?.</p>
+                <p> Si tienes interés en la construcción y el diseño de infraestructuras, esta carrera es la elección perfecta para ti. Te permitirá marcar la diferencia, contribuir al progreso de la sociedad y disfrutar de una carrera gratificante llena de desafíos y oportunidades.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
                     <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
@@ -74,52 +75,60 @@
                       <!-- Bootstrap card-->
                       <article class="card card-custom card-corporate">
                         <div class="card-header" id="accordion3Heading1" role="tab">
-                          <div class="card-title"><a role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse1" aria-controls="accordion3Collapse1" aria-expanded="true">High Quality Guarantee
+                          <div class="card-title"><a role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse1" aria-controls="accordion3Collapse1" aria-expanded="true">PERFIL DEL ESTUDIANTE CIVIL
                               <div class="card-arrow"></div></a>
                           </div>
                         </div>
                         <div class="collapse show" id="accordion3Collapse1" role="tabpanel" aria-labelledby="accordion3Heading1" data-bs-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <p>Inclinación al manejo y aplicación de los conocimientos básicos en, Matemática, Física y Química..</p>
+                            <p>Motivación para el planteamiento y solución de problemas reales.</p>
+                            <p>Disposición para trabajar en equipo.</p>
+                            <p>Uso adecuado del Lenguaje y Comunicación.</p>
+                            <p>Interés por la información de los problemas reales de su localidad, región y del País.</p>
                           </div>
                         </div>
                       </article>
                       <!-- Bootstrap card-->
                       <article class="card card-custom card-corporate">
                         <div class="card-header" id="accordion3Heading2" role="tab">
-                          <div class="card-title"><a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse2" aria-controls="accordion3Collapse2">Qualified Team
+                          <div class="card-title"><a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse2" aria-controls="accordion3Collapse2">PERFIL DEL EGRESADO
                               <div class="card-arrow"></div></a>
                           </div>
                         </div>
                         <div class="collapse" id="accordion3Collapse2" role="tabpanel" aria-labelledby="accordion3Heading2" data-bs-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                          <p>Realiza competentemente los estudios, diseños, especificaciones, términos de referencia para concursos de méritos, documentos de licitación, planes financieros, programación de obras, análisis de fuentes de materiales, costo de materiales y muchas actividades necesarias para una buena y adecuada construcción.</p>
+                            <p>Respeta, comprende, aplica y adecua de forma real las leyes y normatividad relacionada con la producción de diseño y construcciones a nivel internacional, nacional, regional y local, como una razón principal de la práctica integral de su profesión de Ingeniero Civil.</p>
+                            <p>Gerencia su actividad profesional como persona natural, de su empresa como persona jurídica, o de otras empresas del rubro de Ingeniería Civil legalmente constituidas, respetando los principios gerenciales y administrativos, y la normatividad enmarcada en el código civil y la ley de administración.</p>
+                            <p>Usa y hace uso de una adecuada interpretación de los medios computacionales e informáticos relacionados con la Ingeniería Civil.</p>
+                            <p>Desarrolla proyectos de investigación integral para el desarrollo e innovación de nuevas estructuras y de materiales innovadores para la construcción civil.</p>
                           </div>
                         </div>
                       </article>
                       <!-- Bootstrap card-->
                       <article class="card card-custom card-corporate">
                         <div class="card-header" id="accordion3Heading3" role="tab">
-                          <div class="card-title"><a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse3" aria-controls="accordion3Collapse3">24/7 Support
+                          <div class="card-title"><a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse3" aria-controls="accordion3Collapse3">PLAN DE ESTUDIO
                               <div class="card-arrow"></div></a>
                           </div>
                         </div>
                         <div class="collapse" id="accordion3Collapse3" role="tabpanel" aria-labelledby="accordion3Heading3" data-bs-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                          <p>Descarga plan de estudios</p>
                           </div>
                         </div>
                       </article>
                       <!-- Bootstrap card-->
                       <article class="card card-custom card-corporate">
                         <div class="card-header" id="accordion3Heading4" role="tab">
-                          <div class="card-title"><a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse4" aria-controls="accordion3Collapse4">Latest Equipment
+                          <div class="card-title"><a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse4" aria-controls="accordion3Collapse4">MALLA CURRICULAR
                               <div class="card-arrow"></div></a>
                           </div>
                         </div>
                         <div class="collapse" id="accordion3Collapse4" role="tabpanel" aria-labelledby="accordion3Heading4" data-bs-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                          <p>Descarga Malla Curricular</p>
                           </div>
                         </div>
                       </article>
@@ -132,46 +141,46 @@
               <div class="aside aside-services">
                 <div class="row row-60">
                   <div class="aside-item col-12">
-                    <h5 class="aside-services-title">Solutions for your business</h5>
+                    <h5 class="aside-services-title">NUESTRAS CARRERAS PROFESIONALES</h5>
                     <ul class="list-category">
-                      <li class="list-category-item"><a class="active" href="#">All services</a></li>
-                      <li class="list-category-item"><a href="#">Pay Per Click</a></li>
-                      <li class="list-category-item"><a href="#">Content Marketing</a></li>
-                      <li class="list-category-item"><a href="#">SEO Services</a></li>
-                      <li class="list-category-item"><a href="#">Email Marketing</a></li>
-                      <li class="list-category-item"><a href="#">Creative Advertising</a></li>
-                      <li class="list-category-item"><a href="#">Social Media Marketing</a></li>
+                      
+                      <li class="list-category-item"><a href="#">INGENIERIA INDUSTRIAL</a></li>
+                      <li class="list-category-item"><a href="#">INGENIERIA FORESTAL Y AMBIENTAL</a></li>
+                      <li class="list-category-item"><a href="#">INGENIERIA INDUSTRIAS ALIMENTARIAS</a></li>
+                      <li class="list-category-item"><a href="#">INGENIERIA CIVIL</a></li>
+                      <li class="list-category-item"><a href="#">INGENIERIA INDUSTRIAL</a></li>
+                      <li class="list-category-item"><a href="#">ENFERMARIA</a></li>
                     </ul>
                   </div>
                   <div class="aside-item col-sm-6 col-md-12">
-                    <h5 class="aside-services-title">Our contacts</h5>
+                    <h5 class="aside-services-title">CONTACTANOS</h5>
                     <!-- Box contacts-->
                     <div class="box-contacts">
                       <div class="box-contacts-item">
-                        <div class="box-contacts-title">Free consultation</div>
+                        <div class="box-contacts-title">Numero Telefonico</div>
                         <div class="unit unit-spacing-xs flex-column flex-md-row">
                           <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                          <div class="unit-body"><a class="phone" href="tel:#">+1 718-999-3939</a></div>
+                          <div class="unit-body"><a class="phone" href="tel:#">+51 934 566 759</a></div>
                         </div>
                       </div>
                       <div class="box-contacts-item">
                         <div class="box-contacts-title">Office</div>
                         <div class="unit unit-spacing-xs flex-column flex-md-row">
                           <div class="unit-left"><span class="icon icon-28 mdi mdi-map-marker"></span></div>
-                          <div class="unit-body"><a class="address" href="#">514 S. Magnolia St. Orlando, FL 32806</a></div>
+                          <div class="unit-body"><a class="address" href="#">Jr. Bolognesi N° 418 Pampas</a></div>
                         </div>
                       </div>
                       <div class="box-contacts-item">
                         <div class="box-contacts-title">E-mail</div>
                         <div class="unit unit-spacing-xs flex-column flex-md-row">
                           <div class="unit-left"><span class="icon mdi mdi-email"></span></div>
-                          <div class="unit-body"><a class="mail" href="mailto:#">info@demolink.org</a></div>
+                          <div class="unit-body"><a class="mail" href="mailto:#">correo de admision</a></div>
                         </div>
                       </div>
                     </div>
                   </div>
                   <div class="aside-item col-sm-6 col-md-12">
-                    <h5 class="aside-services-title">Our brochure</h5><a class="button button-lg button-icon button-icon-left button-primary-gradient" href="contacts.html"><span class="icon mdi mdi-download"></span><span>Download</span></a>
+                    <h5 class="aside-services-title">NUESTRO PROSPECTO</h5><a class="button button-lg button-icon button-icon-left button-primary-gradient" href="contacts.html"><span class="icon mdi mdi-download"></span><span>Download</span></a>
                   </div>
                 </div>
               </div>
