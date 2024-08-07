@@ -212,24 +212,24 @@
         <div class="container">
             <div class="row row-60 justify-content-center justify-content-xxl-between">
                 <div class="col-lg-6 col-xxl-5 position-static">
-                    <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Nuestra Historia</span></h3>
+                    <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Centro de Idiomas UNAT</h3>
                     <div class="tabs-custom" id="tabs-5">
                         <div class="tab-content tab-content-1">
                             <div class="tab-pane fade" id="tabs-5-1">
                                 <h5 class="fw-normal text-transform-none text-spacing-75">Inicio</h5>
-                                <p>We founded Maximum agency to help businesses reach out to their customers with both traditional marketing and innovative methods that revolutionized the industry.</p>
+                                <p>Fundamos el Centro de Idiomas de la UNAT para ayudar a nuestros Alumnos a llegar a sus futuros clientes a travez de enseñanzas tradicionales y métodos innovadores que revolucionaron la industria.</p>
                             </div>
                             <div class="tab-pane fade" id="tabs-5-2">
                                 <h5 class="fw-normal text-transform-none text-spacing-75">Primeros Años</h5>
-                                <p>7 years later, we became one of the most creative marketing agencies in the US. We also began to study the niche of online marketing, which was still unoccupied.</p>
+                                <p>Fortalecimos nuestros programas académicos de alta calidad que promuevan el aprendizaje y el dominio de diversos idiomas, fomentando el desarrollo de habilidades comunicativas y culturales en nuestra comunidad estudiantil; donde buscamos contribuir al crecimiento académico y personal de nuestros estudiantes, preparándolos para enfrentar los desafíos globales y fomentando la comprensión intercultural.</p>
                             </div>
                             <div class="tab-pane fade" id="tabs-5-3">
                                 <h5 class="fw-normal text-transform-none text-spacing-75">en Pandemia</h5>
-                                <p>To give our clients more and better opportunities in the world of online marketing, we partnered with European and Asian marketers that allowed us to achieve more.</p>
+                                <p>Para brindarles a nuestros Alumnados más y mejores oportunidades en el mundo del aprendizaje online, nos adaptamos a las nuevas tecnologias con especialistas los cuales nos permitieron lograr mayor interaccion con nuestros alumnos.</p>
                             </div>
                             <div class="tab-pane fade show active" id="tabs-5-4">
-                                <h5 class="fw-normal text-transform-none text-spacing-75 wow fadeInRight">Ahora</h5>
-                                <p class="wow fadeInRight" data-wow-delay=".1s">Marketing techniques develop and so do we. During recent years, we introduced new services such as SMM, video marketing, context marketing, and many others.</p>
+                                <h5 class="fw-normal text-transform-none text-spacing-75 wow fadeInRight">Quienes somos</h5>
+                                <p class="wow fadeInRight" data-wow-delay=".1s">El Centro de Idiomas de la UNAT, perteneciente a la Universidad Nacional Autonoma de Tayacaja, se especializa en la enseñanza de inglés,  Portugues como lenguas extranjeras y Quechua como lengua peruana. Contamos con 13 años de experiencia. Estamos aquí para responder a todas tus preguntas y guiarte en tu camino hacia el éxito lingüístico. Ya sea que estés listo para inscribirte en nuestros programas, explorar nuestras opciones o conocer más sobre nuestros servicios, nuestro equipo está disponible para ofrecerte asistencia personalizada. No dudes en ponerte en contacto con nosotros a través de los medios proporcionados y descubre cómo el Centro de Idiomas puede ser tu clave para desbloquear un mundo de oportunidades lingüísticas.</p>
                             </div>
                         </div>
                         <div class="list-history-wrap">
