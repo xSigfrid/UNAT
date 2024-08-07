@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-lg-4 col-xl-5">
                     <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">Ubicación</span></h5>
-                    <p class="wow fadeInRight">Jr. Jose Olaya, Pampas</p>
+                    <p class="wow fadeInRight"> Jr. Bolognesi N° 418, Pampas</p>
 
                     <br>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15606.35853184637!2d-75.18945279999998!3d-12.071731199999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2spe!4v1722947781072!5m2!1ses!2spe" width="470" height="170" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
