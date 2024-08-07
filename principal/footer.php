@@ -26,7 +26,7 @@
                         <li><a href="#">Centro de Idiomas</a></li>
                         <li><a href="#">Cepre</a></li>
                         <li><a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=18675">Transparencia</a></li>
-                        <li><a href="#">Investigacion</a></li>
+                        <li><a href="https://vri.unat.edu.pe/">Investigacion</a></li>
                         <li><a href="#">Contacts Us</a></li>
                     </ul>
                 </div>
