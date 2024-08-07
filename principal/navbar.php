@@ -120,7 +120,7 @@
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Ingenieria Industrial </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Ingenieria Forestal y Ambiental</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria en Industrias Alimentarias</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria Civil</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://unat.edu.pe/ingenieria-civil/">Ingenieria Civil</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria Industrial</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Enfermeria</a></li>
                                             </ul>
