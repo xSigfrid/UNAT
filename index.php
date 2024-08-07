@@ -292,17 +292,17 @@
                                 <!-- Box contacts-->
                                 <div class="box-contacts">
                                     <div class="box-contacts-item">
-                                        <div class="box-contacts-title">Free consultation</div>
+                                        <div class="box-contacts-title">Contactanos</div>
                                         <div class="unit unit-spacing-xs flex-column flex-md-row">
                                             <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                                            <div class="unit-body"><a class="phone" href="tel:#">+1 718-999-3939</a></div>
+                                            <div class="unit-body"><a class="phone" href="tel:#">+51 934 566 759</a></div>
                                         </div>
                                     </div>
                                     <div class="box-contacts-item">
-                                        <div class="box-contacts-title">Office</div>
+                                        <div class="box-contacts-title">Nuestra Oficina</div>
                                         <div class="unit unit-spacing-xs flex-column flex-md-row">
                                             <div class="unit-left"><span class="icon icon-28 mdi mdi-map-marker"></span></div>
-                                            <div class="unit-body"><a class="address" href="#">514 S. Magnolia St. Orlando, FL 32806</a></div>
+                                            <div class="unit-body"><a class="address" href="#">Jr. Bolognesi N° 418 Pampas</a></div>
                                         </div>
                                     </div>
                                 </div>
