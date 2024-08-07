@@ -6,11 +6,9 @@
                     <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">Contacto</span></h5>
                     <ul class="footer-modern-list d-inline-block d-sm-block wow fadeInUp">
                         <li><a href="https://www.facebook.com/unat.oficial?mibextid=ZbWKwL">Facebook oficial</a></li>
-                        <li><a href="#">PPC Services</a></li>
-                        <li><a href="#">Email Marketing</a></li>
-                        <li><a href="#">Conversion Optimization</a></li>
-                        <li><a href="#">Lead Generation</a></li>
-                        <li><a href="#">Marketing Strategy</a></li>
+                        <li><a href="#">Nuestro Servicio</a></li>
+                        <li><a href="#">Email UNAT</a></li>
+                        
                     </ul>
                     <br>
                     <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">Trabaja con Nostros</span></h5>
@@ -27,7 +25,7 @@
                         <li><a href="#">Cepre</a></li>
                         <li><a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=18675">Transparencia</a></li>
                         <li><a href="https://vri.unat.edu.pe/">Investigacion</a></li>
-                        <li><a href="#">Contacts Us</a></li>
+                        <li><a href="#">contactanos</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-xl-5">
