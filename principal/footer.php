@@ -22,10 +22,10 @@
                 <div class="col-md-6 col-lg-4 col-xl-3">
                     <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">Acceso Directos</span></h5>
                     <ul class="footer-modern-list d-inline-block d-sm-block wow fadeInUp">
-                        <li><a href="#">Intranet</a></li>
+                        <li><a href="https://sisacad.unat.edu.pe/zetunat_amazon/zet/index.php">Intranet</a></li>
                         <li><a href="#">Centro de Idiomas</a></li>
                         <li><a href="#">Cepre</a></li>
-                        <li><a href="#">Transparencia</a></li>
+                        <li><a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=18675">Transparencia</a></li>
                         <li><a href="#">Investigacion</a></li>
                         <li><a href="#">Contacts Us</a></li>
                     </ul>
