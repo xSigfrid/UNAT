@@ -150,7 +150,7 @@
         </div>
     </section>
     <!-- Section CTA-->
-    <section class="section parallax-container" data-parallax-img="images/bg-cta-2.jpg">
+    <section class="section parallax-container" data-parallax-img="images/cepre/c1.JPG">
         <div class="parallax-content section-xl context-dark text-md-start gradient-overlay">
             <div class="container">
                 <div class="row justify-content-end">
@@ -247,9 +247,9 @@
                     </div>
                 </div>
                 <div class="col-md-9 col-lg-6 position-static index-1">
-                    <div class="bg-image-right-1 bg-image-right-lg gradient-overlay"><img src="images/about-1-1110x710.jpg" alt="" width="1110" height="710"/>
+                    <div class="bg-image-right-1 bg-image-right-lg gradient-overlay"><img src="images/idioma/2.jpg" alt="" width="1110" height="710"/>
                         <div class="link-play-modern"><a class="icon mdi mdi-play" data-lightgallery="item" href="https://www.youtube.com/watch?v=1UWpbtUupQQ"></a>
-                            <div class="link-play-modern-title">How we<span>Work</span></div>
+                            <div class="link-play-modern-title">How we<span>Wor</span></div>
                             <div class="link-play-modern-decor"></div>
                         </div>
                     </div>
@@ -263,7 +263,7 @@
         <div class="container">
             <div class="row row-60">
                 <div class="col-md-7 col-xl-8">
-                    <div class="single-service"><img src="images/single-service-1-770x426.jpg" alt="" width="770" height="426"/>
+                    <div class="single-service"><img src="images/nosotros/n1.JPG" alt="" width="770" height="426"/>
                         <h4>Sobre Nosotros</h4>
                         <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo creada con la Ley N° 29716, cuenta con una Comisión Organizadora reconformada mediante Resolución Viceministerial N° 088-2022-MINEDU, integrada por la Dra. Isabel Esteban Robladillo, presidenta; el Dr. Andrés Olivera Chura, vicepresidente académico, y el Dr. Luis Alberto Massa Palacios, como vicepresidente de Investigación; quienes están comprometidos con el desarrollo de la primera institución universitaria de Tayacaja.</p>
                         <p>comentario 2</p>
@@ -446,7 +446,7 @@
             <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
                 <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/project-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-7-335x585.jpg" alt="" width="335" height="585"/></a>
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/nosotros/q1.JPG" data-lightgallery="item"><img src="images/nosotros/q1.JPG" alt="" width="335" height="585"/></a>
                         <div class="thumbnail-mary-caption">
                             <div>
                                 <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #1</a></h6>
@@ -457,7 +457,7 @@
                 </div>
                 <div class="col-sm-8 col-xl-4 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-big wow slideInRight"><a class="thumbnail-mary-figure" href="images/project-8-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-8-615x587.jpg" alt="" width="615" height="587"/></a>
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-big wow slideInRight"><a class="thumbnail-mary-figure" href="images/nosotros/q2.JPG" data-lightgallery="item"><img src="images/nosotros/q2.JPG" alt="" width="615" height="587"/></a>
                         <div class="thumbnail-mary-caption">
                             <div>
                                 <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #2</a></h6>
@@ -468,7 +468,7 @@
                 </div>
                 <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInDown"><a class="thumbnail-mary-figure" href="images/project-9-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-9-311x289.jpg" alt="" width="311" height="289"/></a>
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInDown"><a class="thumbnail-mary-figure" href="images/nosotros/q3.JPG" data-lightgallery="item"><img src="images/nosotros/q3.JPG" alt="" width="311" height="289"/></a>
                         <div class="thumbnail-mary-caption">
                             <div>
                                 <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #3</a></h6>
@@ -479,7 +479,7 @@
                 </div>
                 <div class="col-sm-8 col-xl-4 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary wow slideInUp"><a class="thumbnail-mary-figure" href="images/project-10-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-10-631x289.jpg" alt="" width="631" height="289"/></a>
+                    <article class="thumbnail thumbnail-mary wow slideInUp"><a class="thumbnail-mary-figure" href="images/nosotros/q4.JPG" data-lightgallery="item"><img src="images/nosotros/q4.JPG" alt="" width="631" height="289"/></a>
                         <div class="thumbnail-mary-caption">
                             <div>
                                 <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #4</a></h6>
@@ -490,7 +490,7 @@
                 </div>
                 <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInUp"><a class="thumbnail-mary-figure" href="images/project-11-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-11-311x289.jpg" alt="" width="311" height="289"/></a>
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInUp"><a class="thumbnail-mary-figure" href="images/nosotros/q5.JPG" data-lightgallery="item"><img src="images/nosotros/q5.JPG" alt="" width="311" height="289"/></a>
                         <div class="thumbnail-mary-caption">
                             <div>
                                 <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #5</a></h6>
@@ -501,7 +501,7 @@
                 </div>
                 <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInRight"><a class="thumbnail-mary-figure" href="images/project-12-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-12-311x289.jpg" alt="" width="311" height="289"/></a>
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInRight"><a class="thumbnail-mary-figure" href="images/nosotros/q6.JPG" data-lightgallery="item"><img src="images/nosotros/q6.JPG" alt="" width="311" height="289"/></a>
                         <div class="thumbnail-mary-caption">
                             <div>
                                 <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #6</a></h6>
@@ -509,18 +509,7 @@
                             </div>
                         </div>
                     </article>
-                </div>
-                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/project-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/project-13-311x289.jpg" alt="" width="311" height="289"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #7</a></h6>
-                                <div class="thumbnail-mary-location">Branding</div>
-                            </div>
-                        </div>
-                    </article>
-                </div>
+                </div>c
             </div>
         </div>
     </section>
