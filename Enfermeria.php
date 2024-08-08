@@ -54,7 +54,7 @@
               <div class="single-service"><img src="images/single-service-1-770x426.jpg" alt="" width="770" height="426"/>
                 <h4>ENFERMERIA</h4>
                 <p>Enfermeria: es ideal para las personas con vocación de servicio, que les interesa cuidar y atender enfermos, así como manejar tecnologías e información aplicada a la salud.</p>
-                <p> ¿Porque estudiar Ingenieria Enfermeria?.</p>
+                <p> ¿Porque estudiar Enfermeria?.</p>
                 <p> Los egresados de la Licenciatura en Enfermería se encuentran preparados para dirigir y gestionar los servicios de enfermería, tanto proyectos individuales como colectivos, en hospitales públicos y privados, farmacéuticas, laboratorios y, en general, en diversas empresas del área de salud.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
