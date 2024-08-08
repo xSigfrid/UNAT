@@ -44,13 +44,7 @@
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
-        <div class="container">
-          <ul class="breadcrumbs-custom-path">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li class="active">Single Service</li>
-          </ul>
-        </div>
+        
       </section>
       <!-- Services-->
       <section class="section section-sm section-first bg-default text-start">
