@@ -58,7 +58,7 @@
                 <p> Los egresados de la Licenciatura en Enfermería se encuentran preparados para dirigir y gestionar los servicios de enfermería, tanto proyectos individuales como colectivos, en hospitales públicos y privados, farmacéuticas, laboratorios y, en general, en diversas empresas del área de salud.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
-                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
+                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/personajes lema/Dra Jean_Watson.jpg" alt="" width="270" height="182"/></a>
                       <div class="team-classic-title">La empatía es la esencia de una enfermera</div>
                       <div class="team-classic-name"><a href="#">Jean Watson</a>, <span>Enfermera Estadounidense</span></div>
                     </article>
