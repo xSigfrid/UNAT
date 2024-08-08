@@ -84,7 +84,7 @@
             </div>
             <div class="col-sm-6 col-lg-4">
               <!-- Services Creative-->
-              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/INVESTIGACION.jpg" alt="" width="3100" height="3200"/></a>
+              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/INVESTIGACION.jpg" alt="" width="370" height="230"/></a>
                 <div class="services-creative-caption">
                   <h5 class="services-creative-title"><a href="single-service.html">Dr. Anieval Cirilo Peña Rojas</a></h5>
                   <p class="services-creative-text">Vice Presidente Academico</p><span class="services-creative-counter box-ordered-item"></span>
