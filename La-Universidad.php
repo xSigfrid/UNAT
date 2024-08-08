@@ -41,17 +41,11 @@
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark bg-image gradient-overlay" style="background-image: url(images/bg-typography.jpg);">
           <div class="container">
-            <h3 class="breadcrumbs-custom-title">Tabs &amp; Accordions</h3>
+            <h3 class="breadcrumbs-custom-title">universidad</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
-        <div class="container">
-          <ul class="breadcrumbs-custom-path">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="#">Elements</a></li>
-            <li class="active">Tabs &amp; Accordions</li>
-          </ul>
-        </div>
+        
       </section>
       <!-- Tabs-->
       <section class="section section-sm section-first bg-default text-md-start">
