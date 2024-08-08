@@ -187,7 +187,7 @@
       
       
         <div class="container-fluid container-inset-0">
-            <h3 class="wow fadeInRight">Sobre Nosotros</h3>
+            <h3 class="wow fadeInRight">Nuestros Egresados</h3>
             <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
                 <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
                     <!-- Thumbnail Mary-->
