@@ -47,13 +47,13 @@
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
-                                            <h6 class="rd-megamenu-title">la Universidad</h6>
+                                            <h6 class="rd-megamenu-title" >la Universidad</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="La-Universidad.php">Sobre Nosotros</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Misión</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">visión</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Historia y Estatuto</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Organigrama General</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="La-Universidad.php">Misión</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="La-Universidad.php">visión</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="La-Universidad.php">Historia y Estatuto</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="La-Universidad.php">Organigrama General</a></li>
                                             </ul>
                                             <br>
                                             <h6 class="rd-megamenu-title">Comision Organizadora</h6>
