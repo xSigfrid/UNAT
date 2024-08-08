@@ -42,7 +42,7 @@
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark bg-image gradient-overlay" style="background-image: url(images/bg-typography.jpg);">
           <div class="container">
-            <h3 class="breadcrumbs-custom-title">Services #4</h3>
+            <h3 class="breadcrumbs-custom-title">COMISION ORGANIZADORA UNAT</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
@@ -54,6 +54,21 @@
           </ul>
         </div>
       </section>
+      <!-- What We Offer-->
+    <section class="section section-sm section-first bg-default text-start">
+        <div class="container">
+            <div class="row row-60">
+                <div class="col-md-7 col-xl-8">
+                    <div class="single-service">
+                        <h4>Sobre Nosotros</h4>
+                        <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo creada con la Ley N° 29716, cuenta con una Comisión Organizadora reconformada mediante Resolución Viceministerial N° 088-2022-MINEDU, integrada por la Dra. Isabel Esteban Robladillo, presidenta; el Dr. Andrés Olivera Chura, vicepresidente académico, y el Dr. Luis Alberto Massa Palacios, como vicepresidente de Investigación; quienes están comprometidos con el desarrollo de la primera institución universitaria de Tayacaja.</p>
+                        <div class="row row-50 flex-xl-row-reverse">
+                        </div>
+                    </div>
+                </div>
+              </div>
+        </div>
+    </section>
       <!-- Services 2-->
       <section class="section section-lg bg-default">
         <div class="container">
@@ -62,8 +77,8 @@
               <!-- Services Creative-->
               <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/services-7-370x230.jpg" alt="" width="370" height="230"/></a>
                 <div class="services-creative-caption">
-                  <h5 class="services-creative-title"><a href="single-service.html">Pay Per Click</a></h5>
-                  <p class="services-creative-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p><span class="services-creative-counter box-ordered-item"></span>
+                  <h5 class="services-creative-title"><a href="single-service.html">Dra. Isabel Esteban Robladillo</a></h5>
+                  <p class="services-creative-text">Presidente de Comision Organizadora</p><span class="services-creative-counter box-ordered-item"></span>
                 </div>
               </article>
             </div>
@@ -71,8 +86,8 @@
               <!-- Services Creative-->
               <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/services-8-370x230.jpg" alt="" width="370" height="230"/></a>
                 <div class="services-creative-caption">
-                  <h5 class="services-creative-title"><a href="single-service.html">Content Marketing</a></h5>
-                  <p class="services-creative-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p><span class="services-creative-counter box-ordered-item"></span>
+                  <h5 class="services-creative-title"><a href="single-service.html">Dr. Andrés Olivera Chura</a></h5>
+                  <p class="services-creative-text">Vice Presidente Academico</p><span class="services-creative-counter box-ordered-item"></span>
                 </div>
               </article>
             </div>
@@ -80,39 +95,12 @@
               <!-- Services Creative-->
               <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/services-9-370x230.jpg" alt="" width="370" height="230"/></a>
                 <div class="services-creative-caption">
-                  <h5 class="services-creative-title"><a href="single-service.html">SEO Services</a></h5>
-                  <p class="services-creative-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p><span class="services-creative-counter box-ordered-item"></span>
+                  <h5 class="services-creative-title"><a href="single-service.html">Dr. Luis Alberto Massa Palacios</a></h5>
+                  <p class="services-creative-text">Vice Presidente Investigación</p><span class="services-creative-counter box-ordered-item"></span>
                 </div>
               </article>
             </div>
-            <div class="col-sm-6 col-lg-4">
-              <!-- Services Creative-->
-              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/services-10-370x230.jpg" alt="" width="370" height="230"/></a>
-                <div class="services-creative-caption">
-                  <h5 class="services-creative-title"><a href="single-service.html">Email Marketing</a></h5>
-                  <p class="services-creative-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p><span class="services-creative-counter box-ordered-item"></span>
-                </div>
-              </article>
             </div>
-            <div class="col-sm-6 col-lg-4">
-              <!-- Services Creative-->
-              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/services-11-370x230.jpg" alt="" width="370" height="230"/></a>
-                <div class="services-creative-caption">
-                  <h5 class="services-creative-title"><a href="single-service.html">Creative Advertising</a></h5>
-                  <p class="services-creative-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p><span class="services-creative-counter box-ordered-item"></span>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4">
-              <!-- Services Creative-->
-              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images/services-12-370x230.jpg" alt="" width="370" height="230"/></a>
-                <div class="services-creative-caption">
-                  <h5 class="services-creative-title"><a href="single-service.html">Public Relations</a></h5>
-                  <p class="services-creative-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</p><span class="services-creative-counter box-ordered-item"></span>
-                </div>
-              </article>
-            </div>
-          </div>
         </div>
       </section>
 
