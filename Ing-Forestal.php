@@ -53,14 +53,15 @@
             <div class="col-md-7 col-xl-8">
               <div class="single-service"><img src="images/single-service-1-770x426.jpg" alt="" width="770" height="426"/>
                 <h4>INGENIERIA FORESTAL Y AMBIENTAL</h4>
-                <p>Ingenieria Forestal y Ambiental: La Ingeniería Industrial es una carrera que se enfoca en el diseño y gestión de las operaciones empresariales para garantizar su funcionamiento óptimo.</p>
-                <p> ¿Porque estudiar Ingenieria industrial?.</p>
-                <p> Esta carrera permite adquirir habilidades en áreas como matemáticas, física, administración, economía, finanzas y tecnología. Los ingenieros industriales tienen una formación versátil que los capacita para abordar diferentes desafíos en el ámbito empresarial.</p>
+                <p>Ingenieria Forestal y Ambiental: Los ingenieros forestales se centran en la gestión sostenible de los bosques, mientras que los ingenieros ambientales abordan una amplia gama de problemas ambientales en diversos entornos.</p>
+                <p> ¿Porque estudiar Ingenieria Forestal y Ambiental?.</p>
+                <p> Contribuye al Desarrollo Sostenible.</p>
+                <p>La Ingeniería Forestal juega un papel crucial en la protección y conservación de los ecosistemas. Nuestros estudiantes adquieren conocimientos y habilidades para gestionar bosques, aguas y suelos de manera sostenible, contribuyendo así a la salud del planeta</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
                     <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
-                      <div class="team-classic-title">No hay nada en lo que crea más firmemente que lograr que los jóvenes se interesen por  la ciencia y la ingeniería, por un mañana mejor, para toda la humanidad</div>
-                      <div class="team-classic-name"><a href="#">Bill Nye</a>, <span>Ingeniero</span></div>
+                      <div class="team-classic-title">“La Tierra no la heredamos de nuestros padres, la pedimos prestada de nuestros hijos.”</div>
+                      <div class="team-classic-name"><a href="#">Albert Einstein</a>, <span>Fisico</span></div>
                     </article>
                   </div>
                   <div class="col-xl-7">
@@ -92,8 +93,8 @@
                         </div>
                         <div class="collapse" id="accordion3Collapse2" role="tabpanel" aria-labelledby="accordion3Heading2" data-bs-parent="#accordion3">
                           <div class="card-body">
-                          <p>Asimila la estructura conceptual de la Ciencia de Enfermería, su objeto de estudio, campo de acción y áreas para desarrollarse integral y profesionalmente como tal.</p>
-                            <p>Comprende los conocimientos reales necesarios y pertinentes del campo de la enfermería, tales como: enfermería en salud comunitaria, enfermería pediátrica, enfermería en cuidado intensivos, enfermería quirúrgica, enfermería oncológica, enfermería psiquiátrica y enfermería en emergencias y desastres</p>
+                          <p>Asimila la estructura conceptual del Ingeniero Forestal y Ambiental, su objeto de estudio, campo de acción y áreas para desarrollarse integral y profesionalmente como tal.</p>
+                            <p>Comprende los conocimientos reales necesarios y pertinentes del campo de la Ingeniería Forestal y Ambiental, tales como: aprovechamiento de los bosques naturales para la industria forestal, recuperación de los mismos y preservación de la biodiversidad teniendo como marco de referencia la sustentabilidad de la vida en la tierra.</p>
                             <p>Aprende significativamente las acciones reales necesarias para su actuación profesional en la comunidad, ejecutándolas con un nivel de eficiencia y eficacia</p>
                             <p>Tiene desempeño de nivel superior, en su trabajo profesional con reales actitudes positivas de autoestima y autoconfianza, motivación hacia el logro, empeño y persistencia, sentido de orden, iniciativa, ansia de información, búsqueda de relaciones interpersonales, respeto a los demás, tolerancia y justicia.</p>
                             <p>Integra aprendizajes reales continuos y dinámicos de conocimiento, competencias (acciones) y de actitudes (experiencias valorativas) para realizar su práctica profesional en beneficio de la comunidad respondiendo con el establecimiento, desarrollo y logro de las soluciones integrales reales de su profesión.</p>
