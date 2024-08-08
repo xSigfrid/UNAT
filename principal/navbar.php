@@ -49,7 +49,7 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">la Universidad</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Sobre Nosotros</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="La-Universidad.php">Sobre Nosotros</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Misión</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">visión</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Historia y Estatuto</a></li>
