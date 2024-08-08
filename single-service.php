@@ -65,8 +65,8 @@
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
                     <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
-                      <div class="team-classic-title">Feel free to contact us, we are ready to help you!</div>
-                      <div class="team-classic-name"><a href="#">Alice Parker</a>, <span>Manager</span></div>
+                      <div class="team-classic-title">la ingenieria no se limita a pequeñas o grandes construcciones, va mucho mas alla en el espacio y en el tiempo. La ingenieria trasiende</div>
+                      <div class="team-classic-name"><a href="#">Carlos Slim</a>, <span>Ingeniero</span></div>
                     </article>
                   </div>
                   <div class="col-xl-7">
@@ -189,51 +189,81 @@
         </div>
       </section>
 
-      <!-- Contact us-->
-      <section class="section section-sm section-last bg-default text-start">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-10 col-xl-8">
-              <h4>Any questions? Contact us</h4>
-              <form class="rd-form rd-mailform">
-                <div class="row row-20 gutters-20">
-                  <div class="col-md-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-your-name-4" type="text" name="name" data-constraints="@Required">
-                      <label class="form-label" for="contact-your-name-4">Your Name*</label>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-email-4" type="email" name="email" data-constraints="@Email @Required">
-                      <label class="form-label" for="contact-email-4">Your E-mail*</label>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-company-name-4" type="text" name="name" data-constraints="@Required">
-                      <label class="form-label" for="contact-company-name-4">Your Company Name*</label>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-wrap">
-                      <input class="form-input" id="contact-phone-4" type="text" name="phone" data-constraints="@Numeric">
-                      <label class="form-label" for="contact-phone-4">Your Phone*</label>
-                    </div>
-                  </div>
-                  <div class="col-12">
-                    <div class="form-wrap">
-                      <label class="form-label" for="contact-message-4">Your message</label>
-                      <textarea class="form-input textarea-lg" id="contact-message-4" name="message" data-constraints="@Required"></textarea>
-                    </div>
-                  </div>
+      <!-- Imagenes Carrera-->
+      
+      
+        <div class="container-fluid container-inset-0">
+            <h3 class="wow fadeInRight">Sobre Nosotros</h3>
+            <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
+                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
+                    <!-- Thumbnail Mary-->
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/nosotros/q1.JPG" data-lightgallery="item"><img src="images/nosotros/q1.JPG" alt="" width="335" height="585"/></a>
+                        <div class="thumbnail-mary-caption">
+                            <div>
+                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #1</a></h6>
+                                <div class="thumbnail-mary-location">SEO &amp; SMM</div>
+                            </div>
+                        </div>
+                    </article>
                 </div>
-                <button class="button button-primary-gradient" type="submit">Submit</button>
-              </form>
+                <div class="col-sm-8 col-xl-4 isotope-item oh-desktop">
+                    <!-- Thumbnail Mary-->
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-big wow slideInRight"><a class="thumbnail-mary-figure" href="images/nosotros/q2.JPG" data-lightgallery="item"><img src="images/nosotros/q2.JPG" alt="" width="615" height="587"/></a>
+                        <div class="thumbnail-mary-caption">
+                            <div>
+                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #2</a></h6>
+                                <div class="thumbnail-mary-location">Online Marketing</div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
+                    <!-- Thumbnail Mary-->
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInDown"><a class="thumbnail-mary-figure" href="images/nosotros/q3.JPG" data-lightgallery="item"><img src="images/nosotros/q3.JPG" alt="" width="311" height="289"/></a>
+                        <div class="thumbnail-mary-caption">
+                            <div>
+                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #3</a></h6>
+                                <div class="thumbnail-mary-location">Mobile &amp; App Marketing</div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-8 col-xl-4 isotope-item oh-desktop">
+                    <!-- Thumbnail Mary-->
+                    <article class="thumbnail thumbnail-mary wow slideInUp"><a class="thumbnail-mary-figure" href="images/nosotros/q4.JPG" data-lightgallery="item"><img src="images/nosotros/q4.JPG" alt="" width="631" height="289"/></a>
+                        <div class="thumbnail-mary-caption">
+                            <div>
+                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #4</a></h6>
+                                <div class="thumbnail-mary-location">Context advertising</div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
+                    <!-- Thumbnail Mary-->
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInUp"><a class="thumbnail-mary-figure" href="images/nosotros/q5.JPG" data-lightgallery="item"><img src="images/nosotros/q5.JPG" alt="" width="311" height="289"/></a>
+                        <div class="thumbnail-mary-caption">
+                            <div>
+                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #5</a></h6>
+                                <div class="thumbnail-mary-location">Content Marketing</div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
+                    <!-- Thumbnail Mary-->
+                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInRight"><a class="thumbnail-mary-figure" href="images/nosotros/q6.JPG" data-lightgallery="item"><img src="images/nosotros/q6.JPG" alt="" width="311" height="289"/></a>
+                        <div class="thumbnail-mary-caption">
+                            <div>
+                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #6</a></h6>
+                                <div class="thumbnail-mary-location">email marketing</div>
+                            </div>
+                        </div>
+                    </article>
+                </div>c
             </div>
-          </div>
         </div>
-      </section>
+    </section>
 
 
     </div>
