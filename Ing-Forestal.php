@@ -59,7 +59,7 @@
                 <p>La Ingeniería Forestal juega un papel crucial en la protección y conservación de los ecosistemas. Nuestros estudiantes adquieren conocimientos y habilidades para gestionar bosques, aguas y suelos de manera sostenible, contribuyendo así a la salud del planeta</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
-                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
+                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/personajes lema/Albert_Einstein_Head.jpg" alt="" width="270" height="182"/></a>
                       <div class="team-classic-title">“La Tierra no la heredamos de nuestros padres, la pedimos prestada de nuestros hijos.”</div>
                       <div class="team-classic-name"><a href="#">Albert Einstein</a>, <span>Fisico</span></div>
                     </article>
