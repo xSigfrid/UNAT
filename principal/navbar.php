@@ -120,8 +120,7 @@
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Industrial.php">Ingenieria Industrial </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Forestal.php">Ingenieria Forestal y Ambiental</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria en Industrias Alimentarias</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-service.php">Ingenieria Civil</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Ingenieria Industrial</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Civil.php">Ingenieria Civil</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Enfermeria.php">Enfermeria</a></li>
                                             </ul>
                                             <br>
