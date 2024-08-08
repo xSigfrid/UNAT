@@ -53,14 +53,14 @@
             <div class="col-md-7 col-xl-8">
               <div class="single-service"><img src="images/single-service-1-770x426.jpg" alt="" width="770" height="426"/>
                 <h4>INGENIERIA INDUSTRIAL</h4>
-                <p>Enfermeria: es ideal para las personas con vocación de servicio, que les interesa cuidar y atender enfermos, así como manejar tecnologías e información aplicada a la salud.</p>
-                <p> ¿Porque estudiar Ingenieria Enfermeria?.</p>
-                <p> Los egresados de la Licenciatura en Enfermería se encuentran preparados para dirigir y gestionar los servicios de enfermería, tanto proyectos individuales como colectivos, en hospitales públicos y privados, farmacéuticas, laboratorios y, en general, en diversas empresas del área de salud.</p>
+                <p>Enfermeria: La Ingeniería Industrial es una carrera que se enfoca en el diseño y gestión de las operaciones empresariales para garantizar su funcionamiento óptimo.</p>
+                <p> ¿Porque estudiar Ingenieria industrial?.</p>
+                <p> Esta carrera permite adquirir habilidades en áreas como matemáticas, física, administración, economía, finanzas y tecnología. Los ingenieros industriales tienen una formación versátil que los capacita para abordar diferentes desafíos en el ámbito empresarial.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
                     <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
-                      <div class="team-classic-title">La empatía es la esencia de una enfermera</div>
-                      <div class="team-classic-name"><a href="#">Jean Watson</a>, <span>Enfermera Estadounidense</span></div>
+                      <div class="team-classic-title">No hay nada en lo que crea más firmemente que lograr que los jóvenes se interesen por  la ciencia y la ingeniería, por un mañana mejor, para toda la humanidad</div>
+                      <div class="team-classic-name"><a href="#">Bill Nye</a>, <span>Ingeniero</span></div>
                     </article>
                   </div>
                   <div class="col-xl-7">
