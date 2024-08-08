@@ -53,7 +53,7 @@
             <div class="col-md-7 col-xl-8">
               <div class="single-service"><img src="images/single-service-1-770x426.jpg" alt="" width="770" height="426"/>
                 <h4>INGENIERIA INDUSTRIAL</h4>
-                <p>Enfermeria: La Ingeniería Industrial es una carrera que se enfoca en el diseño y gestión de las operaciones empresariales para garantizar su funcionamiento óptimo.</p>
+                <p>Ingenieria Inductrial: La Ingeniería Industrial es una carrera que se enfoca en el diseño y gestión de las operaciones empresariales para garantizar su funcionamiento óptimo.</p>
                 <p> ¿Porque estudiar Ingenieria industrial?.</p>
                 <p> Esta carrera permite adquirir habilidades en áreas como matemáticas, física, administración, economía, finanzas y tecnología. Los ingenieros industriales tienen una formación versátil que los capacita para abordar diferentes desafíos en el ámbito empresarial.</p>
                 <div class="row row-50 flex-xl-row-reverse">
@@ -69,7 +69,7 @@
                       <!-- Bootstrap card-->
                       <article class="card card-custom card-corporate">
                         <div class="card-header" id="accordion3Heading1" role="tab">
-                          <div class="card-title"><a role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse1" aria-controls="accordion3Collapse1" aria-expanded="true">PERFIL DEL ESTUDIANTE ENFERMERIA
+                          <div class="card-title"><a role="button" data-bs-toggle="collapse" data-bs-parent="#accordion3" href="#accordion3Collapse1" aria-controls="accordion3Collapse1" aria-expanded="true">PERFIL DEL ESTUDIANTE
                               <div class="card-arrow"></div></a>
                           </div>
                         </div>
@@ -92,8 +92,8 @@
                         </div>
                         <div class="collapse" id="accordion3Collapse2" role="tabpanel" aria-labelledby="accordion3Heading2" data-bs-parent="#accordion3">
                           <div class="card-body">
-                          <p>Asimila la estructura conceptual de la Ciencia de Enfermería, su objeto de estudio, campo de acción y áreas para desarrollarse integral y profesionalmente como tal.</p>
-                            <p>Comprende los conocimientos reales necesarios y pertinentes del campo de la enfermería, tales como: enfermería en salud comunitaria, enfermería pediátrica, enfermería en cuidado intensivos, enfermería quirúrgica, enfermería oncológica, enfermería psiquiátrica y enfermería en emergencias y desastres</p>
+                          <p>Asimila la estructura conceptual del Ingeniero Industrial, su objeto de estudio, campo de acción y áreas para desarrollarse integral y profesionalmente como tal.</p>
+                            <p>Comprende los conocimientos reales necesarios y pertinentes del campo de la Ingeniería Industrial, tales como: planeamiento y racionalización gestión de la administración y optimización de recursos productivos y humanos de la producción industrial.</p>
                             <p>Aprende significativamente las acciones reales necesarias para su actuación profesional en la comunidad, ejecutándolas con un nivel de eficiencia y eficacia</p>
                             <p>Tiene desempeño de nivel superior, en su trabajo profesional con reales actitudes positivas de autoestima y autoconfianza, motivación hacia el logro, empeño y persistencia, sentido de orden, iniciativa, ansia de información, búsqueda de relaciones interpersonales, respeto a los demás, tolerancia y justicia.</p>
                             <p>Integra aprendizajes reales continuos y dinámicos de conocimiento, competencias (acciones) y de actitudes (experiencias valorativas) para realizar su práctica profesional en beneficio de la comunidad respondiendo con el establecimiento, desarrollo y logro de las soluciones integrales reales de su profesión.</p>
