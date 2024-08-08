@@ -58,7 +58,7 @@
                 <p> Esta carrera permite adquirir habilidades en áreas como matemáticas, física, administración, economía, finanzas y tecnología. Los ingenieros industriales tienen una formación versátil que los capacita para abordar diferentes desafíos en el ámbito empresarial.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
-                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
+                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/personajes lema/Bill_Nye_2017.jpg" alt="" width="270" height="182"/></a>
                       <div class="team-classic-title">No hay nada en lo que crea más firmemente que lograr que los jóvenes se interesen por  la ciencia y la ingeniería, por un mañana mejor, para toda la humanidad</div>
                       <div class="team-classic-name"><a href="#">Bill Nye</a>, <span>Ingeniero</span></div>
                     </article>
