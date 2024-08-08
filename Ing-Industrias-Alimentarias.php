@@ -58,9 +58,9 @@
                 <p> Esta carrera permite adquirir habilidades en áreas como matemáticas, física, administración, economía, finanzas y tecnología. Los ingenieros industriales tienen una formación versátil que los capacita para abordar diferentes desafíos en el ámbito empresarial.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
-                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/team-17-270x182.jpg" alt="" width="270" height="182"/></a>
+                    <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/personajes lema/Mark_Twain_by_AF_Bradley.jpg" alt="" width="270" height="182"/></a>
                       <div class="team-classic-title">“La única manera de conservar la salud es comer lo que no quieres, beber lo que no te gusta y hacer lo que preferirías no hacer”</div>
-                      <div class="team-classic-name"><a href="#">Mark Twain</a>, <span>IMiembro de la Academia Estadounidense de las Artes y las Letras</span></div>
+                      <div class="team-classic-name"><a href="#">Mark Twain</a>, <span>Miembro de la Academia Estadounidense de las Artes y las Letras</span></div>
                     </article>
                   </div>
                   <div class="col-xl-7">
