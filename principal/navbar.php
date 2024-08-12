@@ -90,7 +90,7 @@
                                             <h6 class="rd-megamenu-title"> Regular </h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Vacantes </a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Prospecto</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="DocDescargas/PROSPECTO 2024 I.pdf">Prospecto</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Modalidad de Admisión</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Cronograma</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Resultados</a></li>
