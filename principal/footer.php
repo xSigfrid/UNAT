@@ -42,7 +42,7 @@
     <div class="footer-modern-line-3">
         <div class="container">
             <div class="text-center row row-10 justify-content-between">
-                <div class="col-md-12"><a href="#">Copyright © 2024 - Universidad Autonoma de Tayacaja - Daniel Hernandez Morillo</a></div>
+                <div class="col-md-12"><a href="#">Copyright © 2024 - Universidad Nacional Autonoma de Tayacaja Daniel Hernandez Morillo</a></div>
 
             </div>
         </div>
