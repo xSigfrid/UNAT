@@ -56,6 +56,7 @@
                 <p>Ingenieria Civil: Aborda desafíos y resolución de problemas</p>
                 <p> ¿Porque estudiar Ingenieria Civil?.</p>
                 <p> Si tienes interés en la construcción y el diseño de infraestructuras, esta carrera es la elección perfecta para ti. Te permitirá marcar la diferencia, contribuir al progreso de la sociedad y disfrutar de una carrera gratificante llena de desafíos y oportunidades.</p>
+                <p> actualizacion de carrera con maestrias en civil.</p>
                 <div class="row row-50 flex-xl-row-reverse">
                   <div class="col-xl-5">
                     <article class="team-classic"><a class="team-classic-figure" href="#"><img src="images/personajes lema/Carlos_Slim.jpg" alt="" width="270" height="182"/></a>
