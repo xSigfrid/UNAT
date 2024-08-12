@@ -62,7 +62,7 @@
                       <div class="slick-project-title">Photo #1</div>
                     </div>
                   </div>
-                  <div class="item"><img src="images\section2/s2" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\section2/s5.jpg" alt="" width="670" height="477"/>
                     <div class="slick-project-caption">
                       <div class="slick-project-title">Photo #2</div>
                     </div>
