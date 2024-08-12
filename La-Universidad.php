@@ -153,7 +153,7 @@
                   </div>
                   <div class="collapse show" id="accordion1Collapse1" role="tabpanel" aria-labelledby="accordion1Heading1" data-bs-parent="#accordion1">
                     <div class="card-body">
-                      <p>Descargar.</p>
+                    <a href="DocDescargas/ORGANIGRAMA.pdf" download="ORGANIGRAMA.pdf" ><p>Descargar.</p>
                     </div>
                   </div>
                 </article>
