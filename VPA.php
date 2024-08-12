@@ -96,7 +96,8 @@
                 <h4>Dr. Anieval Cirilo Peña Rojas</h4>
                 <p>Vice Presidente Academico de la universidad Nacional Autonoma de Tayacaja. </p>
                 <p>Resolucion Viseministerial N°054-2024-MINEDU, Resuelve: </p>
-                <p>Artículo 2.- Dar por concluidas las designaciones de los señores ANDRES OLIVERA CHURA y LUIS ALBERTO MASSA PALACIOS, en el cargo de Vicepresidente Académico y Vicepresidente de Investigación, respectivamente, de la Comisión Organizadora de la Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo.</p>
+                <p>Artículo 3.- Reconformar la Comisión Organizadora de la Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo, quedando integrada por:</p>
+                <p>ANIEVAL CIRILO PEÑA ROJAS, como Vicepresidente Académico </p>
                 <div class="group-sm group-middle"><span class="project-page-social-title">Share</span>
                   <div>
                     <ul class="list-inline project-page-social-list">
