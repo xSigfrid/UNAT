@@ -131,7 +131,7 @@
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Regalamento Academico </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Calendario Aacademico </a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">TUPA </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="DocDescargas/TUPA_VIGENTE_UNAT_2024.pdf">TUPA </a></li>
                                             </ul>
                                             <br>
                                         </li>
@@ -150,7 +150,7 @@
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Articulos Cientificos</a></li>
                                             </ul>
                                             <br>
-                                            <h6 class="rd-megamenu-title">Dirección de Innovación y Transparencia Tecnologica</h6>
+                                            <h6 class="rd-megamenu-title">Dirección de Innovación y Transferencia Tecnologica</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Tesis de Pregrado UNAT</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Revistas Cientificas</a></li>
@@ -168,7 +168,7 @@
                                             </ul>
 
                                             <br>
-                                            <h6 class="rd-megamenu-title">Dirección de Innovacion y transferencia Tecnologica</h6>
+                                            <h6 class="rd-megamenu-title">Dirección de produccion de Bienes y Servicios</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://incuba.unat.edu.pe/">Documentos</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Repositorio</a></li>
