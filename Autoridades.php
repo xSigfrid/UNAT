@@ -75,7 +75,7 @@
           <div class="row row-40 row-xl-60 justify-content-center box-ordered">
             <div class="col-sm-6 col-lg-4">
               <!-- Services Creative-->
-              <article class="services-creative"><a class="services-creative-figure" href="#"><img src="images/INVESTIGACION.jpg" alt="" width="370" height="230"/></a>
+              <article class="services-creative"><a class="services-creative-figure" href="#"><img src="images/INVESTIGACION.png" alt="" width="370" height="230"/></a>
                 <div class="services-creative-caption">
                   <h5 class="services-creative-title"><a href="single-service.html">Dr. Jorge Marino Dominguez Castañeda</a></h5>
                   <p class="services-creative-text">Presidente de Comision Organizadora</p><span class="services-creative-counter box-ordered-item"></span>
