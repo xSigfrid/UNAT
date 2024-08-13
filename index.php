@@ -465,7 +465,7 @@
             </div>
             
             <!-- data noticias-->
-            <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/noticias">Campañas y Eventos </a></div>
+            <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/campa%C3%B1as">Campañas y Eventos </a></div>
             <div class="row row-lg row-30 justify-content-center">
                 <div class="col-sm-3">
                     <!-- Post Classic-->
