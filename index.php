@@ -7,13 +7,26 @@
     <!-- Swiper-->
     <section class="section swiper-container swiper-slider swiper-slider-2 swiper-slider-3" data-swiper='{"loop":true,"autoplay":{"delay":5000},"simulateTouch":false,"effect":"fade"}'>
         <div class="swiper-wrapper text-sm-start">
-            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide4.jpg">
+            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide44.jpg">
                 <div class="swiper-slide-caption section-md">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-9 col-md-8 col-lg-7 col-xl-6 offset-lg-1 offset-xxl-0">
-                                <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0"><br> Interaccion continua con nuestros estudiantes - UNAT</span></h3>
+                                <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0"><br> Interaccion con nuestros estudiantes - UNAT</span></h3>
                                 <p class="big swiper-text" data-caption-animate="fadeInLeft" data-caption-delay="300"> </p><a class="button button-lg button-primary-gradient button-shadow-2" href="services.html" data-caption-animate="fadeInUp" data-caption-delay="300"> Leer mas...</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide333.jpg">
+                <div class="swiper-slide-caption section-md">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-8 col-lg-6 offset-lg-1 offset-xxl-0">
+                                <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Enzeñanza Personalizada</span></h3>
+                                <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300"></p>
+                                <div class="button-wrap oh"><a class="button button-lg button-primary-gradient button-shadow-2" href="services-2.html" data-caption-animate="slideInUp" data-caption-delay="0"> Leer mas...</a></div>
                             </div>
                         </div>
                     </div>
@@ -32,19 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide3.jpg">
-                <div class="swiper-slide-caption section-md">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm-8 col-lg-6 offset-lg-1 offset-xxl-0">
-                                <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInLeft" data-caption-delay="100">Sustentacion de Tesis</span></h3>
-                                <p class="big swiper-text" data-caption-animate="fadeInUp" data-caption-delay="0"> </p>
-                                <div class="button-wrap oh"><a class="button button-lg button-primary-gradient button-shadow-2" href="services-3.html" data-caption-animate="slideInLeft" data-caption-delay="100"> Leer mas...</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
         <!-- Swiper Pagination-->
         <div class="swiper-pagination" data-bullet-custom="true"></div>
