@@ -57,7 +57,7 @@
               <div class="slick-project">
                 <!-- Slick Carousel-->
                 <div class="slick-slider carousel-parent" data-arrows="true" data-autoplay="true" data-swipe="true" data-items="1" data-child="#child-carousel-7" data-for="#child-carousel-7" data-slide-effect="true">
-                  <div class="item"><img src="images\vpa\vpa1.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa1.png" alt="" width="670" height="477"/>
                     <div class="slick-project-caption">
                       <div class="slick-project-title">Photo #1</div>
                     </div>
@@ -67,25 +67,25 @@
                       <div class="slick-project-title">Photo #2</div>
                     </div>
                   </div>
-                  <div class="item"><img src="images\vpa\vpa3.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa3.png" alt="" width="670" height="477"/>
                     <div class="slick-project-caption">
                       <div class="slick-project-title">Photo #3</div>
                     </div>
                   </div>
-                  <div class="item"><img src="images\vpa\vpa1.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa4.png" alt="" width="670" height="477"/>
                     <div class="slick-project-caption">
                       <div class="slick-project-title">Photo #4</div>
                     </div>
                   </div>
                 </div>
                 <div class="slick-slider child-carousel" id="child-carousel-7" data-for=".carousel-parent" data-items="3" data-sm-items="3" data-md-items="4" data-lg-items="3" data-xl-items="4" data-slide-to-scroll="1">
-                  <div class="item"><img src="images\vpa\vpa1.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa1.png" alt="" width="670" height="477"/>
                   </div>
                   <div class="item"><img src="images\vpa\vpa2.jpg" alt="" width="670" height="477"/>
                   </div>
-                  <div class="item"><img src="images\vpa\vpa3.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa3.png" alt="" width="670" height="477"/>
                   </div>
-                  <div class="item"><img src="images\vpa\vpa1.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa4.png" alt="" width="670" height="477"/>
                   </div>
                 </div>
               </div>
