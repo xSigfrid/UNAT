@@ -464,8 +464,62 @@
                 
             </div>
             
+            <!-- data noticias-->
+            <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/noticias">Campañas y Eventos </a></div>
+            <div class="row row-lg row-30 justify-content-center">
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/eventos/evento3107.jpeg" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/campa%C3%B1as/72579-taller-plan-de-actualizacion-del-lms-e-integracion-con-los-sistemas-de-la-unat">Taller: Plan de actualización del LMS e Integración con los Sistemas de la UNAT</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">Jul 31, 2024</time>
+                    </article>
+                </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/eventos/evento3007.png" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/campa%C3%B1as/72499-cepre-unat-ciclo-regular-2024">CEPRE UNAT Ciclo Regular 2024</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">Jul 30, 2024</time>
+                    </article>
+                </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/eventos/evento2006.png" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/campa%C3%B1as/67922-eleccion-de-miss-y-mister-unat-2024">Elección de Miss y Míster UNAT 2024</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-11">June 20, 2024</time>
+                    </article>
+                </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/eventos/evento1206.png" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/campa%C3%B1as/67003-porque-ciencia-tecnologia-e-innovacion-esta-en-el-alma-de-la-unat">¡Porque ciencia, tecnología e innovación está en el alma de la UNAT!</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-11">June 12, 2024</time>
+                    </article>
+                </div>
+            </div>
 
-            <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/noticias">Eventos y Noticias</a></div>
+        </div>
+        <!-- data noticias-->
+        <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/noticias">Noticias</a></div>
             <div class="row row-lg row-30 justify-content-center">
                 <div class="col-sm-3">
                     <!-- Post Classic-->
