@@ -79,7 +79,7 @@
                   </div>
                 </div>
                 <div class="slick-slider child-carousel" id="child-carousel-7" data-for=".carousel-parent" data-items="3" data-sm-items="3" data-md-items="4" data-lg-items="3" data-xl-items="4" data-slide-to-scroll="1">
-                  <div class="item"><img src="images\vpi/vpi1.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpi/vpi1.png" alt="" width="670" height="477"/>
                   </div>
                   <div class="item"><img src="images\vpi/vpi2.png" alt="" width="670" height="477"/>
                   </div>
