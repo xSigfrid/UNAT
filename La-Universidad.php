@@ -41,7 +41,7 @@
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark bg-image gradient-overlay" style="background-image: url(images/bg-typography.jpg);">
           <div class="container">
-            <h3 class="breadcrumbs-custom-title">universidad</h3>
+            <h3 class="breadcrumbs-custom-title">universidad Nacional Autonoma de Tayacaja Daniel Hernadez Morillo</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
@@ -54,7 +54,11 @@
           <div class="row">
             <div class="col-xl-12">
               <h4>Sobre Nosotros</h4>
-              <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo creada con la Ley N° 29716, cuenta con una Comisión Organizadora reconformada mediante Resolución Viceministerial N° 088-2022-MINEDU, integrada por la Dra. Isabel Esteban Robladillo, presidenta; el Dr. Andrés Olivera Chura, vicepresidente académico, y el Dr. Luis Alberto Massa Palacios, como vicepresidente de Investigación; quienes están comprometidos con el desarrollo de la primera institución universitaria de Tayacaja.</p>
+              <p>En una ceremonia muy emotiva, los tres miembros de la comisión organizadora de la Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo, recientemente designados con la Resolución Viceministerial N° 054-2024-MINEDU, juramentaron como nuevas autoridades universitarias, teniendo como objetivo encaminar el autogobierno de la universidad tayacajina.</p>
+              <p>En su mensaje, el Dr. Jorge Marino Domínguez Castañeda, presidente de la Comisión Organizadora señaló que uno de los objetivos de la universidad es impulsar el desarrollo de la región y la sociedad, "nos enfocaremos en cumplir los ejes estratégicos, trabajando de la mano con autoridades, docentes, estudiantes y personal administrativo".</p>
+              <p>En otro momento mencionó que su gestión se caracterizará por la transparencia, cumpliendo las leyes y normativas vigentes, "así como está escrito en las letras del himno unatcino, trabajaremos hasta lograr la meta final; por tanto las puertas de mi despacho están abiertas para recibir cualquier sugerencia".</p>
+              <p>Por su parte, El Dr. Anieval Peña Rojas, vicepresidente académico, dijo que en la parte académica trabajarán intensamente para programar, ejecutar y controlar el desarrollo de la actividad académica; teniendo coordinación activa con los órganos de línea y órganos de apoyo académico, "vengo a servir y volcar todos mis años de experiencia para consolidando la autonomía de la UNAT".</p>
+              <p>En tanto, la Dra. Roxani Keewong Zapata, vicepresidenta de investigación de la Comisión Organizadora, refirió que asume con profunda responsabilidad el cargo de vicepresidenta de investigación, "mi tarea será dar el impulso a uno de los pilares más importantes de la universidad, buscando soluciones a través de la investigación a los problemas que aquejan a la sociedad"</p>
               
       <!-- Vertical Tabs-->
       <section class="section section-sm bg-default text-md-start">
@@ -153,7 +157,7 @@
                   </div>
                   <div class="collapse show" id="accordion1Collapse1" role="tabpanel" aria-labelledby="accordion1Heading1" data-bs-parent="#accordion1">
                     <div class="card-body">
-                    <a href="DocDescargas/ORGANIGRAMA.pdf" download="ORGANIGRAMA.pdf" ><p>Descargar.</p>
+                    <a href="https://www.gob.pe/institucion/unat/informes-publicaciones/4229446-estatuto-v-08" download="ESTATUTO V8.pdf" ><p>Descargar.</p></a>
                     </div>
                   </div>
                 </article>
