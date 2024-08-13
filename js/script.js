@@ -50,7 +50,6 @@
 			radio:                   $("input[type='radio']"),
 			checkbox:                $("input[type='checkbox']"),
 			customToggle:            $("[data-custom-toggle]"),
-			preloader:               $(".preloader"),
 			captcha:                 $('.recaptcha'),
 			scroller:                $(".scroll-wrap"),
 			lightGallery:            $("[data-lightgallery='group']"),
@@ -98,118 +97,7 @@
 	}
 
 	// Initialize scripts that require a loaded page
-	$window.on('load', function () {
-		// Page loader & Page transition
-		if (plugins.preloader.length && !isNoviBuilder) {
-			pageTransition({
-				target: document.querySelector( '.page' ),
-				delay: 500,
-				duration: 500,
-				classIn: 'fadeIn',
-				classOut: 'fadeOut',
-				classActive: 'animated',
-				conditions: function (event, link) {
-					return link && !/(\#|javascript:void\(0\)|callto:|tel:|mailto:|:\/\/)/.test(link) && !event.currentTarget.hasAttribute('data-lightgallery');
-				},
-				onTransitionStart: function ( options ) {
-					setTimeout( function () {
-						plugins.preloader.removeClass('loaded');
-					}, options.duration * .75 );
-				},
-				onReady: function () {
-					plugins.preloader.addClass('loaded');
-					windowReady = true;
-				}
-			});
-		}
 
-		// Progress Bar
-		if ( plugins.progressLinear ) {
-			for ( var i = 0; i < plugins.progressLinear.length; i++ ) {
-				var
-					container = plugins.progressLinear[i],
-					bar = container.querySelector('.progress-bar-linear'),
-					duration = container.getAttribute('data-duration') || 1000,
-					counter = aCounter({
-						node: container.querySelector( '.progress-value' ),
-						duration: duration,
-						onStart: function() {
-							this.custom.bar.style.width = this.params.to + '%';
-						}
-					});
-
-				bar.style.transitionDuration = duration / 1000 + 's';
-				counter.custom = {
-					container: container,
-					bar: bar,
-					onScroll: (function() {
-						if ( ( Util.inViewport( this.custom.container ) && !this.custom.container.classList.contains( 'animated' ) ) || isNoviBuilder ) {
-							this.run();
-							this.custom.container.classList.add( 'animated' );
-						}
-					}).bind( counter ),
-					onBlur: (function() {
-						this.params.to = parseInt( this.params.node.textContent, 10 );
-						this.run();
-					}).bind( counter )
-				};
-
-				if ( isNoviBuilder ) {
-					counter.run();
-					counter.params.node.addEventListener( 'blur', counter.custom.onBlur );
-				} else {
-					counter.custom.onScroll();
-					document.addEventListener( 'scroll', counter.custom.onScroll );
-				}
-			}
-		}
-
-		// Counter
-		if ( plugins.counter ) {
-			for (let i = 0; i < plugins.counter.length; i++) {
-				let
-					node = plugins.counter[i],
-					counter = aCounter({
-						node:     node,
-						duration: node.getAttribute('data-duration') || 1000
-					}),
-					scrollHandler = (function () {
-						if (Util.inViewport(this) && !this.classList.contains('animated-first')) {
-							this.counter.run();
-							this.classList.add('animated-first');
-						}
-					}).bind(node),
-					blurHandler = (function () {
-						this.counter.params.to = parseInt(this.textContent, 10);
-						this.counter.run();
-					}).bind(node);
-
-				if (isNoviBuilder) {
-					node.counter.run();
-					node.addEventListener('blur', blurHandler);
-				} else {
-					scrollHandler();
-					window.addEventListener('scroll', scrollHandler);
-				}
-			}
-		}
-
-		// Isotope
-		// if (plugins.isotope.length) {
-		// 	for (var i = 0; i < plugins.isotope.length; i++) {
-		// 		var isotopeItem = plugins.isotope[i];
-		// 		isotopeItem.isotope.layout();
-		//
-		// 		window.addEventListener( 'resize', function() {
-		// 			debug( '[isotope] resize', { dur: 5000, class: '.purple' } );
-		// 			setTimeout( function() {
-		// 				debug( '[isotope] layout', { dur: 5000, class: '.orange' } );
-		// 				isotopeItem.isotope.layout();
-		// 			}, 2000 );
-		// 		});
-		// 	}
-		// }
-	});
 
 	// Initialize scripts that require a finished document
 	$(function () {
