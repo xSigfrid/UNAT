@@ -146,34 +146,33 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title"><a  href="https://vri.unat.edu.pe/">Instituto de Investigación  </a></h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Incubadora Universitaria </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Repositorio</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Articulos Cientificos</a></li>
                                             </ul>
                                             <br>
                                             <h6 class="rd-megamenu-title">Dirección de Innovación y Transferencia Tecnologica</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Tesis de Pregrado UNAT</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Revistas Cientificas</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Propiedad Intelectual</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Transparencia Tecnológica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Propiedad Intelectual</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Reglamento de Innovación y Transferencia Tecnologica</a></li>
+                                                
                                             </ul>
 
                                         </li>
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">Dirección de incubadoras de Empresas</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Documentos - Reglamentos</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Incuba UNAT </a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Directorio Interno </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Reglamentos</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://incuba.unat.edu.pe/">Incuba UNAT </a></li>
+                                                
                                             </ul>
 
                                             <br>
                                             <h6 class="rd-megamenu-title">Dirección de produccion de Bienes y Servicios</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://incuba.unat.edu.pe/">Documentos</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Repositorio</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Articulos</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Centro de Idiomas</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Cepre</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Gestion Ambiental</a></li>
                                             </ul>
                                         </li>
                                     </ul>
