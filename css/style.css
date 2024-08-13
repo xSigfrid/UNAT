@@ -13246,7 +13246,7 @@ html.tablet .ui-to-top {
 	display: none;
 	margin-left: 4px;
 	font-family: "Material Design Icons";
-	font-size: 16px;
+	font-size: 10px;
 	cursor: pointer;
 }
 
@@ -14298,7 +14298,6 @@ html.rd-navbar-fixed-linked .page {
 	}
 }
 
-
 .rd-navbar-modern.rd-navbar-static .rd-navbar-brand img {
 	max-width: 160px;
 	max-height: 160px;
@@ -14312,15 +14311,19 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-modern.rd-navbar-static .rd-nav-item + .rd-nav-item {
-	margin-left: 40px;
+	margin-left: 10px;
 }
 
 @media (min-width: 1200px) {
 	.rd-navbar-modern.rd-navbar-static .rd-nav-item + .rd-nav-item {
-		margin-left: 55px;
+		margin-left: 10px;
 	}
 }
-
+@media (min-width: 1800px) {
+	.rd-navbar-modern.rd-navbar-static .rd-nav-item + .rd-nav-item {
+		margin-left: 10px;
+	}
+}
 .rd-navbar-modern.rd-navbar-static .rd-navbar--has-dropdown {
 	position: relative;
 }
@@ -19063,14 +19066,14 @@ h3 + .tabs-custom {
 	}
 }
 
-/* 
+/*
  * 	Owl Carousel - Auto Height Plugin
  */
 .owl-height {
 	transition: height 500ms ease-in-out;
 }
 
-/* 
+/*
  *  Core Owl Carousel CSS File
  */
 .owl-carousel {
@@ -19161,7 +19164,7 @@ h3 + .tabs-custom {
 	display: block;
 }
 
-/* 
+/*
  * 	Owl Carousel - Lazy Load Plugin
  */
 .owl-carousel .owl-item .owl-lazy {
@@ -19169,7 +19172,7 @@ h3 + .tabs-custom {
 	transition: opacity 400ms ease;
 }
 
-/* 
+/*
  * 	Owl Carousel - Video Plugin
  */
 .owl-carousel .owl-video-wrapper {
