@@ -171,8 +171,8 @@
                                             <h6 class="rd-megamenu-title">Dirección de produccion de Bienes y Servicios</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Centro de Idiomas</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Cepre</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Gestion Ambiental</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://unat.edu.pe/centro-pre-universitario/">Cepre</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://gestion-ambiental.netlify.app/">Gestion Ambiental</a></li>
                                             </ul>
                                         </li>
                                     </ul>
