@@ -85,7 +85,7 @@
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
-                                        <h6 class="rd-megamenu-title"><a  href="https://admision.unat.edu.pe/"> ADMISION </h6>
+                                        <h6 class="rd-megamenu-title"><a  href="https://admision.unat.edu.pe/"> ADMISION </a> </h6>
 
                                             <h6 class="rd-megamenu-title"> Regular </h6>
                                             <ul class="rd-megamenu-list">
@@ -113,7 +113,7 @@
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
-                                        <h6 class="rd-megamenu-title"><a  href="https://admision.unat.edu.pe/"> NUESTRAS </h6>
+                                        <h6 class="rd-megamenu-title"><a  href="https://admision.unat.edu.pe/"> NUESTRAS  </a></h6>
 
                                             <h6 class="rd-megamenu-title"> CARRERAS </h6>
                                             <ul class="rd-megamenu-list">
@@ -143,7 +143,7 @@
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
-                                            <h6 class="rd-megamenu-title"><a  href="https://vri.unat.edu.pe/">Instituto de Investigación</h6>
+                                            <h6 class="rd-megamenu-title"><a  href="https://vri.unat.edu.pe/">Instituto de Investigación  </a></h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Incubadora Universitaria </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Repositorio</a></li>
