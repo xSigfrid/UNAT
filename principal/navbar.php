@@ -59,6 +59,7 @@
                                             <h6 class="rd-megamenu-title">Comision Organizadora</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Autoridades.php">Autoridades</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://www.gob.pe/institucion/unat/funcionarios">Directorio</a></li>
                                             </ul>
 
                                         </li>
