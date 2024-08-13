@@ -31,7 +31,7 @@
                                     <li>
                                         <div class="unit unit-spacing-xs">
                                             <div class="unit-left"><span class="icon mdi mdi-linkedin"></span></div>
-                                            <div class="unit-body"><a class="address" href="#">Convocatorias</a></div>
+                                            <div class="unit-body"><a class="address" href="https://unat.edu.pe/convocatorias/">Convocatorias</a></div>
                                         </div>
                                     </li>
                                 </ul>
