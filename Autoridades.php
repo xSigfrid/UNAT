@@ -94,7 +94,7 @@
             </div>
             <div class="col-sm-6 col-lg-4">
               <!-- Services Creative-->
-              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images\autoridades/s4.jpg" alt="" width="370" height="230"/></a>
+              <article class="services-creative"><a class="services-creative-figure" href="single-service.html"><img src="images\autoridades/s4.png" alt="" width="370" height="230"/></a>
                 <div class="services-creative-caption">
                   <h5 class="services-creative-title"><a href="VPI.php">Dr. Roxani Keewong Zapata</a></h5>
                   <p class="services-creative-text">Vice Presidente Investigación</p><span class="services-creative-counter box-ordered-item"></span>
