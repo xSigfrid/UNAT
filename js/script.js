@@ -35,12 +35,12 @@
 			rdMailForm:              $(".rd-mailform"),
 			rdInputLabel:            $(".form-label"),
 			regula:                  $("[data-constraints]"),
-      selectFilter:            $("select"),
-      stepper:                 $("input[type='number']"),
+			selectFilter:            $("select"),
+			stepper:                 $("input[type='number']"),
 			wow:                     $(".wow"),
 			owl:                     $(".owl-carousel"),
 			swiper:                  $(".swiper-slider"),
-      slick:                   $('.slick-slider'),
+			slick:                   $('.slick-slider'),
 			search:                  $(".rd-search"),
 			searchResults:           $('.rd-search-results'),
 			statefulButton:          $('.btn-stateful'),
@@ -50,6 +50,7 @@
 			radio:                   $("input[type='radio']"),
 			checkbox:                $("input[type='checkbox']"),
 			customToggle:            $("[data-custom-toggle]"),
+			preloader:               $(".preloader"),
 			captcha:                 $('.recaptcha'),
 			scroller:                $(".scroll-wrap"),
 			lightGallery:            $("[data-lightgallery='group']"),
@@ -58,11 +59,11 @@
 			mailchimp:               $('.mailchimp-mailform'),
 			campaignMonitor:         $('.campaign-mailform'),
 			copyrightYear:           $(".copyright-year"),
-      buttonWinona:            $('.button-winona'),
-      rdRange:                 $('.rd-range'),
-      radioPanel:              $('.radio-panel .radio-inline'),
+			buttonWinona:            $('.button-winona'),
+			rdRange:                 $('.rd-range'),
+			radioPanel:              $('.radio-panel .radio-inline'),
 			maps:                    $( '.google-map-container' ),
-      multitoggle:             document.querySelectorAll( '[data-multitoggle]' ),
+			multitoggle:             document.querySelectorAll( '[data-multitoggle]' ),
 			counter:                 document.querySelectorAll( '.counter' ),
 			progressLinear:          document.querySelectorAll( '.progress-linear' ),
 			countdown:               document.querySelectorAll( '[data-countdown]')
@@ -97,7 +98,118 @@
 	}
 
 	// Initialize scripts that require a loaded page
+	$window.on('load', function () {
+		// Page loader & Page transition
+		if (plugins.preloader.length && !isNoviBuilder) {
+			pageTransition({
+				target: document.querySelector( '.page' ),
+				delay: 500,
+				duration: 500,
+				classIn: 'fadeIn',
+				classOut: 'fadeOut',
+				classActive: 'animated',
+				conditions: function (event, link) {
+					return link && !/(\#|javascript:void\(0\)|callto:|tel:|mailto:|:\/\/)/.test(link) && !event.currentTarget.hasAttribute('data-lightgallery');
+				},
+				onTransitionStart: function ( options ) {
+					setTimeout( function () {
+						plugins.preloader.removeClass('loaded');
+					}, options.duration * .75 );
+				},
+				onReady: function () {
+					plugins.preloader.addClass('loaded');
+					windowReady = true;
+				}
+			});
+		}
 
+		// Progress Bar
+		if ( plugins.progressLinear ) {
+			for ( var i = 0; i < plugins.progressLinear.length; i++ ) {
+				var
+					container = plugins.progressLinear[i],
+					bar = container.querySelector('.progress-bar-linear'),
+					duration = container.getAttribute('data-duration') || 1000,
+					counter = aCounter({
+						node: container.querySelector( '.progress-value' ),
+						duration: duration,
+						onStart: function() {
+							this.custom.bar.style.width = this.params.to + '%';
+						}
+					});
+
+				bar.style.transitionDuration = duration / 1000 + 's';
+				counter.custom = {
+					container: container,
+					bar: bar,
+					onScroll: (function() {
+						if ( ( Util.inViewport( this.custom.container ) && !this.custom.container.classList.contains( 'animated' ) ) || isNoviBuilder ) {
+							this.run();
+							this.custom.container.classList.add( 'animated' );
+						}
+					}).bind( counter ),
+					onBlur: (function() {
+						this.params.to = parseInt( this.params.node.textContent, 10 );
+						this.run();
+					}).bind( counter )
+				};
+
+				if ( isNoviBuilder ) {
+					counter.run();
+					counter.params.node.addEventListener( 'blur', counter.custom.onBlur );
+				} else {
+					counter.custom.onScroll();
+					document.addEventListener( 'scroll', counter.custom.onScroll );
+				}
+			}
+		}
+
+		// Counter
+		if ( plugins.counter ) {
+			for (let i = 0; i < plugins.counter.length; i++) {
+				let
+					node = plugins.counter[i],
+					counter = aCounter({
+						node:     node,
+						duration: node.getAttribute('data-duration') || 1000
+					}),
+					scrollHandler = (function () {
+						if (Util.inViewport(this) && !this.classList.contains('animated-first')) {
+							this.counter.run();
+							this.classList.add('animated-first');
+						}
+					}).bind(node),
+					blurHandler = (function () {
+						this.counter.params.to = parseInt(this.textContent, 10);
+						this.counter.run();
+					}).bind(node);
+
+				if (isNoviBuilder) {
+					node.counter.run();
+					node.addEventListener('blur', blurHandler);
+				} else {
+					scrollHandler();
+					window.addEventListener('scroll', scrollHandler);
+				}
+			}
+		}
+
+		// Isotope
+		// if (plugins.isotope.length) {
+		// 	for (var i = 0; i < plugins.isotope.length; i++) {
+		// 		var isotopeItem = plugins.isotope[i];
+		// 		isotopeItem.isotope.layout();
+		//
+		// 		window.addEventListener( 'resize', function() {
+		// 			debug( '[isotope] resize', { dur: 5000, class: '.purple' } );
+		// 			setTimeout( function() {
+		// 				debug( '[isotope] layout', { dur: 5000, class: '.orange' } );
+		// 				isotopeItem.isotope.layout();
+		// 			}, 2000 );
+		// 		});
+		// 	}
+		// }
+	});
 
 	// Initialize scripts that require a finished document
 	$(function () {
@@ -275,34 +387,34 @@
 				initLightGalleryItem(c.find('[data-lightgallery="item"]'), 'lightGallery-in-carousel');
 			});
 
-      // Create custom Numbering
-      if (typeof(c.attr("data-numbering")) !== 'undefined') {
-        var numberingObject = $(c.attr("data-numbering"));
+			// Create custom Numbering
+			if (typeof(c.attr("data-numbering")) !== 'undefined') {
+				var numberingObject = $(c.attr("data-numbering"));
 
-        c.on('initialized.owl.carousel changed.owl.carousel', function (numberingObject) {
-          return function (e) {
-            if (!e.namespace) return;
-            if(isNoviBuilder ? false : c.attr("data-loop") !== "false") {
-              var tempFix = (e.item.index + 1) - (e.relatedTarget.clones().length / 2);
-              if(tempFix > 0) {
-                numberingObject.find('.numbering-current').text(tempFix > e.item.count ? tempFix % e.item.count : tempFix);
-              } else {
-                numberingObject.find('.numbering-current').text(e.item.index + 1);
-              }
-            } else {
-              numberingObject.find('.numbering-current').text(e.item.index + 1);
-            }
+				c.on('initialized.owl.carousel changed.owl.carousel', function (numberingObject) {
+					return function (e) {
+						if (!e.namespace) return;
+						if(isNoviBuilder ? false : c.attr("data-loop") !== "false") {
+							var tempFix = (e.item.index + 1) - (e.relatedTarget.clones().length / 2);
+							if(tempFix > 0) {
+								numberingObject.find('.numbering-current').text(tempFix > e.item.count ? tempFix % e.item.count : tempFix);
+							} else {
+								numberingObject.find('.numbering-current').text(e.item.index + 1);
+							}
+						} else {
+							numberingObject.find('.numbering-current').text(e.item.index + 1);
+						}
 
-            numberingObject.find('.numbering-count').text(e.item.count);
-          };
-        }(numberingObject));
-      }
+						numberingObject.find('.numbering-count').text(e.item.count);
+					};
+				}(numberingObject));
+			}
 
 			c.owlCarousel({
 				autoplay: isNoviBuilder ? false : c.attr("data-autoplay") === "true",
 				loop: isNoviBuilder ? false : c.attr("data-loop") !== "false",
 				items: 1,
-        merge: true,
+				merge: true,
 				center: c.attr("data-center") === "true",
 				dotsContainer: c.attr("data-pagination-class") || false,
 				navContainer: c.attr("data-navigation-class") || false,
@@ -313,7 +425,7 @@
 				animateIn: c.attr('data-animation-in') ? c.attr('data-animation-in') : false,
 				animateOut: c.attr('data-animation-out') ? c.attr('data-animation-out') : false,
 				responsive: responsive,
-        smartSpeed: c.attr('data-smart-speed') ? c.attr('data-smart-speed') : 250,
+				smartSpeed: c.attr('data-smart-speed') ? c.attr('data-smart-speed') : 250,
 				navText: function () {
 					try {
 						return JSON.parse(c.attr("data-nav-text"));
@@ -678,37 +790,37 @@
 			})
 		}
 
-    // Bootstrap tabs
-    if (plugins.bootstrapTabs.length) {
-      for (var i = 0; i < plugins.bootstrapTabs.length; i++) {
-        var bootstrapTabsItem = $(plugins.bootstrapTabs[i]);
+		// Bootstrap tabs
+		if (plugins.bootstrapTabs.length) {
+			for (var i = 0; i < plugins.bootstrapTabs.length; i++) {
+				var bootstrapTabsItem = $(plugins.bootstrapTabs[i]);
 
-        //If have slick carousel inside tab - resize slick carousel on click
-        if (bootstrapTabsItem.find('.slick-slider').length) {
-          bootstrapTabsItem.find('.tabs-custom-list > li > a').on('click', $.proxy(function () {
-            var $this = $(this);
-            var setTimeOutTime = isNoviBuilder ? 1500 : 300;
+				//If have slick carousel inside tab - resize slick carousel on click
+				if (bootstrapTabsItem.find('.slick-slider').length) {
+					bootstrapTabsItem.find('.tabs-custom-list > li > a').on('click', $.proxy(function () {
+						var $this = $(this);
+						var setTimeOutTime = isNoviBuilder ? 1500 : 300;
 
-            setTimeout(function () {
-              $this.find('.tab-content .tab-pane.active .slick-slider').slick('setPosition');
-            }, setTimeOutTime);
-          }, bootstrapTabsItem));
-        }
+						setTimeout(function () {
+							$this.find('.tab-content .tab-pane.active .slick-slider').slick('setPosition');
+						}, setTimeOutTime);
+					}, bootstrapTabsItem));
+				}
 
-        if(bootstrapTabsItem.attr('data-view-triggerable') === 'true') {
-          (function(bootstrapTabsItem) {
-            bootstrapTabsItem.on('shown.bs.tab', function(event) {
-              var prevTriggerable = bootstrapTabsItem.find('[data-view-trigger="' + event.relatedTarget.getAttribute('href') + '"]'),
-                triggerable = bootstrapTabsItem.find('[data-view-trigger="' + event.target.getAttribute('href') + '"]');
+				if(bootstrapTabsItem.attr('data-view-triggerable') === 'true') {
+					(function(bootstrapTabsItem) {
+						bootstrapTabsItem.on('shown.bs.tab', function(event) {
+							var prevTriggerable = bootstrapTabsItem.find('[data-view-trigger="' + event.relatedTarget.getAttribute('href') + '"]'),
+								triggerable = bootstrapTabsItem.find('[data-view-trigger="' + event.target.getAttribute('href') + '"]');
 
-              prevTriggerable.removeClass('active');
-              triggerable.addClass('active');
-            });
+							prevTriggerable.removeClass('active');
+							triggerable.addClass('active');
+						});
 
-          })(bootstrapTabsItem);
-        }
-      }
-    }
+					})(bootstrapTabsItem);
+				}
+			}
+		}
 
 		// Copyright Year (Evaluates correct copyright year)
 		if (plugins.copyrightYear.length) {
@@ -1617,21 +1729,21 @@
 			}
 		}
 
-    // Winona buttons
-    if (plugins.buttonWinona.length && !isNoviBuilder) {
-      initWinonaButtons(plugins.buttonWinona);
-    }
+		// Winona buttons
+		if (plugins.buttonWinona.length && !isNoviBuilder) {
+			initWinonaButtons(plugins.buttonWinona);
+		}
 
-    function initWinonaButtons(buttons) {
-      for (var i = 0; i < buttons.length; i++) {
-        var $button = $(buttons[i]),
-          innerContent = $button.html();
+		function initWinonaButtons(buttons) {
+			for (var i = 0; i < buttons.length; i++) {
+				var $button = $(buttons[i]),
+					innerContent = $button.html();
 
-        $button.html('');
-        $button.append('<div class="content-original">' + innerContent + '</div>');
-        $button.append('<div class="content-dubbed">' + innerContent + '</div>');
-      }
-    }
+				$button.html('');
+				$button.append('<div class="content-original">' + innerContent + '</div>');
+				$button.append('<div class="content-dubbed">' + innerContent + '</div>');
+			}
+		}
 
 		// Select2
 		if (plugins.selectFilter.length) {
@@ -1650,15 +1762,15 @@
 			}
 		}
 
-    // Stepper
-    if (plugins.stepper.length) {
-      plugins.stepper.stepper({
-        labels: {
-          up: "",
-          down: ""
-        }
-      });
-    }
+		// Stepper
+		if (plugins.stepper.length) {
+			plugins.stepper.stepper({
+				labels: {
+					up: "",
+					down: ""
+				}
+			});
+		}
 
 		//RD Range
 		if (plugins.rdRange.length && !isNoviBuilder) {
@@ -1678,126 +1790,126 @@
 			});
 		}
 
-    // Slick carousel
-    if (plugins.slick.length) {
-      for (var i = 0; i < plugins.slick.length; i++) {
-        var $slickItem = $(plugins.slick[i]);
+		// Slick carousel
+		if (plugins.slick.length) {
+			for (var i = 0; i < plugins.slick.length; i++) {
+				var $slickItem = $(plugins.slick[i]);
 
-        $slickItem.on('init', function (slick) {
-          initLightGallery($('[data-lightgallery="group-slick"]'), 'lightGallery-in-carousel');
-          initLightGallery($('[data-lightgallery="item-slick"]'), 'lightGallery-in-carousel');
-        });
-
-        $slickItem.slick({
-          slidesToScroll: parseInt($slickItem.attr('data-slide-to-scroll'), 10) || 1,
-          asNavFor: $slickItem.attr('data-for') || false,
-          dots: $slickItem.attr("data-dots") === "true",
-          infinite:  isNoviBuilder ? false : $slickItem.attr("data-loop") === "true",
-          focusOnSelect: true,
-          arrows: $slickItem.attr("data-arrows") === "true",
-          swipe: $slickItem.attr("data-swipe") === "true",
-          autoplay: $slickItem.attr("data-autoplay") === "true",
-          centerMode: $slickItem.attr("data-center-mode") === "true",
-          fade:  $slickItem.attr("data-slide-effect") === "true",
-          centerPadding: $slickItem.attr("data-center-padding") ? $slickItem.attr("data-center-padding") : '0.50',
-          mobileFirst: true,
-          appendArrows: $slickItem.attr("data-arrows-class") || $slickItem,
-          nextArrow: $slickItem.attr('data-custom-arrows') === "true" ? '<button type="button" class="slick-next">' +
-						'  <svg width="100%" height="100%" viewbox="0 0 78 78">' +
-						'    <circle class="slick-button-line" cx="39" cy="39" r="36"></circle>' +
-						'    <circle class="slick-button-line-2" cx="39" cy="39" r="36"></circle>' +
-						'  </svg>' +
-					'</button>' : '<button type="button" class="slick-next"></button>',
-          prevArrow: $slickItem.attr('data-custom-arrows') === "true" ? '<button type="button" class="slick-prev">' +
-						'  <svg width="100%" height="100%" viewbox="0 0 78 78">' +
-						'    <circle class="slick-button-line" cx="39" cy="39" r="36"></circle>' +
-						'    <circle class="slick-button-line-2" cx="39" cy="39" r="36"></circle>' +
-						'  </svg>' +
-					'</button>' : '<button type="button" class="slick-prev"></button>',
-          responsive: [
-            {
-              breakpoint: 0,
-              settings: {
-                slidesToShow: parseInt($slickItem.attr('data-items'), 10) || 1,
-								vertical: $slickItem.attr('data-vertical') === 'true' || false
-              }
-            },
-            {
-              breakpoint: 575,
-              settings: {
-                slidesToShow: parseInt($slickItem.attr('data-sm-items'), 10) || 1,
-								vertical: $slickItem.attr('data-sm-vertical') === 'true' || false
-              }
-            },
-            {
-              breakpoint: 767,
-              settings: {
-                slidesToShow: parseInt($slickItem.attr('data-md-items'), 10) || 1,
-								vertical: $slickItem.attr('data-md-vertical') === 'true' || false
-              }
-            },
-            {
-              breakpoint: 991,
-              settings: {
-                slidesToShow: parseInt($slickItem.attr('data-lg-items'), 10) || 1,
-								vertical: $slickItem.attr('data-lg-vertical') === 'true' || false
-              }
-            },
-            {
-              breakpoint: 1199,
-              settings: {
-                slidesToShow: parseInt($slickItem.attr('data-xl-items'), 10) || 1,
-								vertical: $slickItem.attr('data-xl-vertical') === 'true' || false
-              }
-            }
-          ]
-        })
-
-				.on('afterChange', function (event, slick, currentSlide, nextSlide) {
-					var $this = $(this),
-						childCarousel = $this.attr('data-child');
-
-					if (childCarousel) {
-						$(childCarousel + ' .slick-slide').removeClass('slick-current');
-						$(childCarousel + ' .slick-slide').eq(currentSlide).addClass('slick-current');
-					}
+				$slickItem.on('init', function (slick) {
+					initLightGallery($('[data-lightgallery="group-slick"]'), 'lightGallery-in-carousel');
+					initLightGallery($('[data-lightgallery="item-slick"]'), 'lightGallery-in-carousel');
 				});
 
-        if($slickItem.attr('data-fraction')) {
-          (function() {
-            var fractionElement = document.querySelectorAll($slickItem.attr('data-fraction'))[0],
-              fractionCurrent = fractionElement.querySelectorAll('.slick-fraction-current')[0],
-              fractionAll = fractionElement.querySelectorAll('.slick-fraction-all')[0];
+				$slickItem.slick({
+					slidesToScroll: parseInt($slickItem.attr('data-slide-to-scroll'), 10) || 1,
+					asNavFor: $slickItem.attr('data-for') || false,
+					dots: $slickItem.attr("data-dots") === "true",
+					infinite:  isNoviBuilder ? false : $slickItem.attr("data-loop") === "true",
+					focusOnSelect: true,
+					arrows: $slickItem.attr("data-arrows") === "true",
+					swipe: $slickItem.attr("data-swipe") === "true",
+					autoplay: $slickItem.attr("data-autoplay") === "true",
+					centerMode: $slickItem.attr("data-center-mode") === "true",
+					fade:  $slickItem.attr("data-slide-effect") === "true",
+					centerPadding: $slickItem.attr("data-center-padding") ? $slickItem.attr("data-center-padding") : '0.50',
+					mobileFirst: true,
+					appendArrows: $slickItem.attr("data-arrows-class") || $slickItem,
+					nextArrow: $slickItem.attr('data-custom-arrows') === "true" ? '<button type="button" class="slick-next">' +
+						'  <svg width="100%" height="100%" viewbox="0 0 78 78">' +
+						'    <circle class="slick-button-line" cx="39" cy="39" r="36"></circle>' +
+						'    <circle class="slick-button-line-2" cx="39" cy="39" r="36"></circle>' +
+						'  </svg>' +
+						'</button>' : '<button type="button" class="slick-next"></button>',
+					prevArrow: $slickItem.attr('data-custom-arrows') === "true" ? '<button type="button" class="slick-prev">' +
+						'  <svg width="100%" height="100%" viewbox="0 0 78 78">' +
+						'    <circle class="slick-button-line" cx="39" cy="39" r="36"></circle>' +
+						'    <circle class="slick-button-line-2" cx="39" cy="39" r="36"></circle>' +
+						'  </svg>' +
+						'</button>' : '<button type="button" class="slick-prev"></button>',
+					responsive: [
+						{
+							breakpoint: 0,
+							settings: {
+								slidesToShow: parseInt($slickItem.attr('data-items'), 10) || 1,
+								vertical: $slickItem.attr('data-vertical') === 'true' || false
+							}
+						},
+						{
+							breakpoint: 575,
+							settings: {
+								slidesToShow: parseInt($slickItem.attr('data-sm-items'), 10) || 1,
+								vertical: $slickItem.attr('data-sm-vertical') === 'true' || false
+							}
+						},
+						{
+							breakpoint: 767,
+							settings: {
+								slidesToShow: parseInt($slickItem.attr('data-md-items'), 10) || 1,
+								vertical: $slickItem.attr('data-md-vertical') === 'true' || false
+							}
+						},
+						{
+							breakpoint: 991,
+							settings: {
+								slidesToShow: parseInt($slickItem.attr('data-lg-items'), 10) || 1,
+								vertical: $slickItem.attr('data-lg-vertical') === 'true' || false
+							}
+						},
+						{
+							breakpoint: 1199,
+							settings: {
+								slidesToShow: parseInt($slickItem.attr('data-xl-items'), 10) || 1,
+								vertical: $slickItem.attr('data-xl-vertical') === 'true' || false
+							}
+						}
+					]
+				})
 
-            $slickItem.on('afterChange', function(slick) {
-              fractionCurrent.innerText = leadingZero(this.slick.currentSlide + 1);
-              fractionAll.innerText = leadingZero(this.slick.slideCount);
-            });
+					.on('afterChange', function (event, slick, currentSlide, nextSlide) {
+						var $this = $(this),
+							childCarousel = $this.attr('data-child');
 
-            $slickItem.trigger('afterChange');
-          })();
-        }
-      }
-    }
+						if (childCarousel) {
+							$(childCarousel + ' .slick-slide').removeClass('slick-current');
+							$(childCarousel + ' .slick-slide').eq(currentSlide).addClass('slick-current');
+						}
+					});
 
-    function leadingZero(decimal) {
-      return decimal < 10 && decimal > 0 ? '0' + decimal : decimal;
-    }
+				if($slickItem.attr('data-fraction')) {
+					(function() {
+						var fractionElement = document.querySelectorAll($slickItem.attr('data-fraction'))[0],
+							fractionCurrent = fractionElement.querySelectorAll('.slick-fraction-current')[0],
+							fractionAll = fractionElement.querySelectorAll('.slick-fraction-all')[0];
 
-    // Radio Panel
-    if (plugins.radioPanel) {
-      for (var i = 0; i < plugins.radioPanel.length; i++) {
-        var $element = $(plugins.radioPanel[i]);
-        $element.on('click', function () {
-          plugins.radioPanel.removeClass('active');
-          $(this).addClass('active');
-        })
-      }
-    }
+						$slickItem.on('afterChange', function(slick) {
+							fractionCurrent.innerText = leadingZero(this.slick.currentSlide + 1);
+							fractionAll.innerText = leadingZero(this.slick.slideCount);
+						});
 
-    // Multitoggles
-    if(plugins.multitoggle.length) {
-      multitoggles();
-    }
+						$slickItem.trigger('afterChange');
+					})();
+				}
+			}
+		}
+
+		function leadingZero(decimal) {
+			return decimal < 10 && decimal > 0 ? '0' + decimal : decimal;
+		}
+
+		// Radio Panel
+		if (plugins.radioPanel) {
+			for (var i = 0; i < plugins.radioPanel.length; i++) {
+				var $element = $(plugins.radioPanel[i]);
+				$element.on('click', function () {
+					plugins.radioPanel.removeClass('active');
+					$(this).addClass('active');
+				})
+			}
+		}
+
+		// Multitoggles
+		if(plugins.multitoggle.length) {
+			multitoggles();
+		}
 	});
 }());
