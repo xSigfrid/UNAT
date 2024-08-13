@@ -443,7 +443,7 @@
     <section class="section section-sm section-last bg-default">
         <div class="container-fluid container-inset-0">
             <h3 class="wow fadeInRight">Sobre Nosotros</h3>
-            <div class="single-post-title">Normas y Documentos</div>
+            <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/normas-y-documentos">Normas y Documentos</a></div>
             <div class="row row-lg row-30 justify-content-center">
                 <div class="col-sm-3">
                     <!-- Post Classic-->
@@ -451,10 +451,10 @@
                         <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/normas-legales/5859430-125-2024-p-unat">Resolución de Presidencia N.° 125-2024-P-UNAT</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-06">Ago 09, 2024</time>
                     </article>
                 </div>
                 <div class="col-sm-3">
@@ -463,22 +463,10 @@
                         <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/informes-publicaciones/5858289-cronograma-de-matriculas-presenciales-para-el-semestre-academico-2024-ii">Cronograma de matrículas presenciales para el Semestre Académico 2024-II</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
-                    </article>
-                </div>
-                <div class="col-sm-3">
-                    <!-- Post Classic-->
-                    <article class="post post-classic post-classic-2">
-                        <div class="post-classic-figure"><img src="images/project-1-1200x800-original.jpg" alt="" width="370" height="365"/>
-                        </div>
-                        <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Five Indisputable Reasons Why Your Business Should Have a Mobile App</a>
-                            </p>
-                        </div>
-                        <time class="post-classic-time" datetime="2022-06-11">June 11, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-06">Ago 08, 2024</time>
                     </article>
                 </div>
                 <div class="col-sm-3">
@@ -487,62 +475,77 @@
                         <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/normas-legales/5858348-124-2024-p-unat">Resolución de Presidencia N.° 124-2024-P-UNAT</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-11">Ago 05, 2024</time>
                     </article>
                 </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/normas-legales/5847060-008-2024-p-unat-diga-ua">Resolución Jefatural N.° 008-2024-P-UNAT/DIGA-UA</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">Ago 02, 2024</time>
+                    </article>
+                    
+                </div>
+                
             </div>
+            
 
-            <div class="single-post-title">Eventos y Noticias</div>
+            <div class="single-post-title"> <a href="https://www.gob.pe/institucion/unat/noticias">Eventos y Noticias</a></div>
             <div class="row row-lg row-30 justify-content-center">
                 <div class="col-sm-3">
                     <!-- Post Classic-->
                     <article class="post post-classic post-classic-2">
-                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
+                        <div class="post-classic-figure"><img src="images/noticias/jul0524.png" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/noticias/986263-sustentacion-de-tesis-2024">Sustentación de Tesis 2024 - Escuela de Enfermeria</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-06">Jul 05, 2024</time>
                     </article>
                 </div>
                 <div class="col-sm-3">
                     <!-- Post Classic-->
                     <article class="post post-classic post-classic-2">
-                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
+                        <div class="post-classic-figure"><img src="images/noticias/jul0224.jpg" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/noticias/986271-sustentacion-de-tesis-2024">Sustentación de Tesis 2024 - Escuela de Enfermeria</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-06">Jul 02, 2024</time>
                     </article>
                 </div>
                 <div class="col-sm-3">
                     <!-- Post Classic-->
                     <article class="post post-classic post-classic-2">
-                        <div class="post-classic-figure"><img src="images/project-1-1200x800-original.jpg" alt="" width="370" height="365"/>
+                        <div class="post-classic-figure"><img src="images/noticias/sustentacion28 1.jpg" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Five Indisputable Reasons Why Your Business Should Have a Mobile App</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/noticias/980085-sustentacion-de-tesis-2024">Sustentación de Tesis 2024 - Escuela de Enfermeria</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-11">June 11, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-11">June 28, 2024</time>
                     </article>
                 </div>
                 <div class="col-sm-3">
                     <!-- Post Classic-->
                     <article class="post post-classic post-classic-2">
-                        <div class="post-classic-figure"><img src="images/project-1-1200x800-original.jpg" alt="" width="370" height="365"/>
+                        <div class="post-classic-figure"><img src="images/noticias/sustentacion28 2.jpg" alt="" width="370" height="365"/>
                         </div>
                         <div class="post-classic-content">
-                            <p class="post-classic-title"><a href="blog-post.html">Five Indisputable Reasons Why Your Business Should Have a Mobile App</a>
+                            <p class="post-classic-title"><a href="https://www.gob.pe/institucion/unat/noticias/980114-sustentacion-de-tesis-2024">Sustentación de Tesis 2024 - Escuela de Enfermeria</a>
                             </p>
                         </div>
-                        <time class="post-classic-time" datetime="2022-06-11">June 11, 2022</time>
+                        <time class="post-classic-time" datetime="2022-06-11">June 28, 2024</time>
                     </article>
                 </div>
             </div>
