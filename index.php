@@ -72,7 +72,7 @@
                     <div class="slick-project">
                         <!-- Slick Carousel-->
                         <div class="slick-slider carousel-parent" data-arrows="true" data-autoplay="true" data-swipe="true" data-items="1" data-child="#child-carousel-7" data-for="#child-carousel-7" data-slide-effect="true">
-                            <div class="item"><img src="images/section2/s5.PNG" alt="" width="670" height="477"/>
+                            <div class="item"><img src="images/section2/s5.jpg" alt="" width="670" height="477"/>
                                 <div class="slick-project-caption">
                                     <div class="slick-project-title">Imagen #1</div>
                                 </div>
@@ -94,7 +94,7 @@
                             </div>
                         </div>
                         <div class="slick-slider child-carousel" id="child-carousel-7" data-for=".carousel-parent" data-items="3" data-sm-items="3" data-md-items="4" data-lg-items="3" data-xl-items="4" data-slide-to-scroll="1">
-                            <div class="item"><img src="images/section2/s5.PNG" alt="" width="670" height="477"/>
+                            <div class="item"><img src="images/section2/s5.jpg" alt="" width="670" height="477"/>
                             </div>
                             <div class="item"><img src="images/section2/s2.JPG" alt="" width="670" height="477"/>
                             </div>
