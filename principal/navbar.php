@@ -25,7 +25,7 @@
                                     <li>
                                         <div class="unit unit-spacing-xs">
                                             <div class="unit-left"><span class="icon mdi mdi-checkbook-arrow-right"></span></div>
-                                            <div class="unit-body"><a class="address" href="https://sisacad.unat.edu.pe/zetunat_amazon/zet/index.php">INTRANET</a></div>
+                                            <div class="unit-body"><a class="address" href="gestion/">INTRANET</a></div>
                                         </div>
                                     </li>
                                     <li>
