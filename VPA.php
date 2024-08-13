@@ -72,7 +72,7 @@
                       <div class="slick-project-title">Photo #3</div>
                     </div>
                   </div>
-                  <div class="item"><img src="images\vpa\vpa4.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa1.jpg" alt="" width="670" height="477"/>
                     <div class="slick-project-caption">
                       <div class="slick-project-title">Photo #4</div>
                     </div>
@@ -85,7 +85,7 @@
                   </div>
                   <div class="item"><img src="images\vpa\vpa3.jpg" alt="" width="670" height="477"/>
                   </div>
-                  <div class="item"><img src="images\vpa\vpa4.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpa\vpa1.jpg" alt="" width="670" height="477"/>
                   </div>
                 </div>
               </div>
