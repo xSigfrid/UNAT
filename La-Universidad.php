@@ -131,8 +131,8 @@
                 </div>
                 <div class="col-md-12 col-lg-12 position-static index-1">
                     <div class="bg-image-right-1 bg-image-right-lg gradient-overlay"><img src="images/idioma/2.jpg" alt="" width="1110" height="710"/>
-                        <div class="link-play-modern"><a class="icon mdi mdi-play" data-lightgallery="item" href="https://www.youtube.com/watch?v=1UWpbtUupQQ"></a>
-                            <div class="link-play-modern-title">How we<span>Wor</span></div>
+                        <div class="link-play-modern"><a class="icon mdi mdi-play" data-lightgallery="item" href="https://www.youtube.com/@universidadnacionalautonom6674"></a>
+                            <div class="link-play-modern-title">conocenos mas<span>en</span></div>
                             <div class="link-play-modern-decor"></div>
                         </div>
                     </div>
