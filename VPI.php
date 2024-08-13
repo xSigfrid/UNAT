@@ -57,7 +57,7 @@
               <div class="slick-project">
                 <!-- Slick Carousel-->
                 <div class="slick-slider carousel-parent" data-arrows="true" data-autoplay="true" data-swipe="true" data-items="1" data-child="#child-carousel-7" data-for="#child-carousel-7" data-slide-effect="true">
-                  <div class="item"><img src="images\vpi/vpi1.jpg" alt="" width="670" height="477"/>
+                  <div class="item"><img src="images\vpi/vpi1.png" alt="" width="670" height="477"/>
                     <div class="slick-project-caption">
                       <div class="slick-project-title">Photo #1</div>
                     </div>
