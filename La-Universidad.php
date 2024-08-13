@@ -41,7 +41,7 @@
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark bg-image gradient-overlay" style="background-image: url(images/bg-typography.jpg);">
           <div class="container">
-            <h3 class="breadcrumbs-custom-title">universidad Nacional Autonoma de Tayacaja Daniel Hernadez Morillo</h3>
+            <h3 class="breadcrumbs-custom-title">universidad Nacional Autonoma de Tayacaja Daniel Hernandez Morillo</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
