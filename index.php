@@ -24,7 +24,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-8 col-lg-6 offset-lg-1 offset-xxl-0">
-                                <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Enzeñanza Personalizada</span></h3>
+                                <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Enseñanza Personalizada</span></h3>
                                 <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300"></p>
                                 <div class="button-wrap oh"><a class="button button-lg button-primary-gradient button-shadow-2" href="services-2.html" data-caption-animate="slideInUp" data-caption-delay="0"> Leer mas...</a></div>
                             </div>
