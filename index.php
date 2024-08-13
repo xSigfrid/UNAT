@@ -443,74 +443,110 @@
     <section class="section section-sm section-last bg-default">
         <div class="container-fluid container-inset-0">
             <h3 class="wow fadeInRight">Sobre Nosotros</h3>
-            <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
-                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/nosotros/q1.JPG" data-lightgallery="item"><img src="images/nosotros/q1.JPG" alt="" width="335" height="585"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #1</a></h6>
-                                <div class="thumbnail-mary-location">SEO &amp; SMM</div>
-                            </div>
+            <div class="single-post-title">Normas y Documentos</div>
+            <div class="row row-lg row-30 justify-content-center">
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
                         </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
                     </article>
                 </div>
-                <div class="col-sm-8 col-xl-4 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-big wow slideInRight"><a class="thumbnail-mary-figure" href="images/nosotros/q2.JPG" data-lightgallery="item"><img src="images/nosotros/q2.JPG" alt="" width="615" height="587"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #2</a></h6>
-                                <div class="thumbnail-mary-location">Online Marketing</div>
-                            </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
                         </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
                     </article>
                 </div>
-                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInDown"><a class="thumbnail-mary-figure" href="images/nosotros/q3.JPG" data-lightgallery="item"><img src="images/nosotros/q3.JPG" alt="" width="311" height="289"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #3</a></h6>
-                                <div class="thumbnail-mary-location">Mobile &amp; App Marketing</div>
-                            </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/project-1-1200x800-original.jpg" alt="" width="370" height="365"/>
                         </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Five Indisputable Reasons Why Your Business Should Have a Mobile App</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-11">June 11, 2022</time>
                     </article>
                 </div>
-                <div class="col-sm-8 col-xl-4 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary wow slideInUp"><a class="thumbnail-mary-figure" href="images/nosotros/q4.JPG" data-lightgallery="item"><img src="images/nosotros/q4.JPG" alt="" width="631" height="289"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #4</a></h6>
-                                <div class="thumbnail-mary-location">Context advertising</div>
-                            </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
                         </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
                     </article>
                 </div>
-                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInUp"><a class="thumbnail-mary-figure" href="images/nosotros/q5.JPG" data-lightgallery="item"><img src="images/nosotros/q5.JPG" alt="" width="311" height="289"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #5</a></h6>
-                                <div class="thumbnail-mary-location">Content Marketing</div>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="col-sm-4 col-xl-2 isotope-item oh-desktop">
-                    <!-- Thumbnail Mary-->
-                    <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInRight"><a class="thumbnail-mary-figure" href="images/nosotros/q6.JPG" data-lightgallery="item"><img src="images/nosotros/q6.JPG" alt="" width="311" height="289"/></a>
-                        <div class="thumbnail-mary-caption">
-                            <div>
-                                <h6 class="thumbnail-mary-title"><a href="project-page.html">Project name #6</a></h6>
-                                <div class="thumbnail-mary-location">email marketing</div>
-                            </div>
-                        </div>
-                    </article>
-                </div>c
             </div>
+
+            <div class="single-post-title">Eventos y Noticias</div>
+            <div class="row row-lg row-30 justify-content-center">
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
+                    </article>
+                </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/post-1-440x229.jpg" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Learning to Reach New Audiences Using Social Media Marketing Tools</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-06">June 06, 2022</time>
+                    </article>
+                </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/project-1-1200x800-original.jpg" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Five Indisputable Reasons Why Your Business Should Have a Mobile App</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-11">June 11, 2022</time>
+                    </article>
+                </div>
+                <div class="col-sm-3">
+                    <!-- Post Classic-->
+                    <article class="post post-classic post-classic-2">
+                        <div class="post-classic-figure"><img src="images/project-1-1200x800-original.jpg" alt="" width="370" height="365"/>
+                        </div>
+                        <div class="post-classic-content">
+                            <p class="post-classic-title"><a href="blog-post.html">Five Indisputable Reasons Why Your Business Should Have a Mobile App</a>
+                            </p>
+                        </div>
+                        <time class="post-classic-time" datetime="2022-06-11">June 11, 2022</time>
+                    </article>
+                </div>
+            </div>
+
         </div>
     </section>
 
