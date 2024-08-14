@@ -236,7 +236,7 @@
                 <div class="col-md-7 col-xl-8">
                     <div class="single-service"><img src="images/nosotros/n1.JPG" alt="" width="770" height="426"/>
                         <h4>Sobre Nosotros</h4>
-                        <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo creada con la Ley N° 29716, cuenta con una Comisión Organizadora reconformada mediante Resolución Viceministerial N° 088-2022-MINEDU, integrada por la Dra. Isabel Esteban Robladillo, presidenta; el Dr. Andrés Olivera Chura, vicepresidente académico, y el Dr. Luis Alberto Massa Palacios, como vicepresidente de Investigación; quienes están comprometidos con el desarrollo de la primera institución universitaria de Tayacaja.</p>
+                        <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo, establecida mediante la Ley N° 29716, cuenta con una Comisión Organizadora, recientemente designados con la Resolución Viceministerial N° 054-2024-MINEDU, juramentaron como nuevas autoridades universitarias, teniendo como objetivo encaminar el autogobierno de la universidad tayacajina.</p>
                         <a href="https://www.youtube.com/@universidadnacionalautonom6674"><p>video de actualidad UNAT</p></a>
                         <div class="row row-50 flex-xl-row-reverse">
 
