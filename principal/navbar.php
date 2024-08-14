@@ -66,7 +66,7 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">Autoridades Universitarias</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Concejo Universitario</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Consejo Universitario</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.html">Asamblea Universitaria</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="counters.html">Presidente Comisión Organizadora</a></li>
                                             </ul>
@@ -118,10 +118,10 @@
 
                                             <h6 class="rd-megamenu-title"> CARRERAS </h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Industrial.php">Ingenieria Industrial </a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Forestal.php">Ingenieria Forestal y Ambiental</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Industrias-Alimentarias.php">Ingenieria en Industrias Alimentarias</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Civil.php">Ingenieria Civil</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Industrial.php">Ingeniería Industrial </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Forestal.php">Ingeniería Forestal y Ambiental</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Industrias-Alimentarias.php">Ingeniería en Industrias Alimentarias</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Ing-Civil.php">Ingeniería Civil</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="Enfermeria.php">Enfermeria</a></li>
                                             </ul>
                                             <br>
@@ -130,8 +130,8 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">DOCUMENTOS</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Regalamento Academico </a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Calendario Aacademico </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Reglamento académico </a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Calendario Académico </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="DocDescargas/TUPA_VIGENTE_UNAT_2024.pdf">TUPA </a></li>
                                             </ul>
                                             <br>
@@ -150,11 +150,11 @@
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Articulos Cientificos</a></li>
                                             </ul>
                                             <br>
-                                            <h6 class="rd-megamenu-title">Dirección de Innovación y Transferencia Tecnologica</h6>
+                                            <h6 class="rd-megamenu-title">Dirección de Innovación y Transferencia Tecnológica</h6>
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Transparencia Tecnológica</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Propiedad Intelectual</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Reglamento de Innovación y Transferencia Tecnologica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Reglamento de Innovación y Transferencia Tecnológica</a></li>
                                                 
                                             </ul>
 
@@ -172,7 +172,7 @@
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Centro de Idiomas</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://unat.edu.pe/centro-pre-universitario/">Cepre</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://gestion-ambiental.netlify.app/">Gestion Ambiental</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://gestion-ambiental.netlify.app/">Gestión Ambiental</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -183,9 +183,9 @@
                                     <ul class="rd-menu rd-navbar-dropdown">
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Comedor Universitario</a></li>
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services-2.html">Biblioteca Universitaria</a></li>
-                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Topico Universitario</a></li>
-                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services-2.html">Psicologia Universitaria</a></li>
-                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Cultura Tradicion y Deporte</a></li>
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Tópico Universitario</a></li>
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services-2.html">Psicología Universitaria</a></li>
+                                        <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Cultura Tradición y Deporte</a></li>
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Bus Universitario</a></li>
                                     </ul>
                                 </li>
