@@ -92,7 +92,7 @@
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://admision.unat.edu.pe/2/vacantes/">Vacantes </a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="DocDescargas/PROSPECTO 2024 I.pdf">Prospecto</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Modalidad de Admisión</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://admision.unat.edu.pe/2/">Modalidad de Admisión</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://admision.unat.edu.pe/2/crono/">Cronograma</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://www.gob.pe/institucion/unat/campa%C3%B1as/51487-resultados-del-primer-sumativo-cepre-unat-2024-1s">Resultados</a></li>
                                             </ul>
