@@ -109,9 +109,12 @@
                 <div class="col-lg-6 col-xl-5">
                     <div class="project-page">
                         <h4>Comision Organizadora </h4>
-                        <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo, establecida mediante la Ley N° 29716, cuenta con una Comisión Organizadora, recientemente reconformada por medio de la Resolución Viceministerial N° 088-2022-MINEDU. Dicha comisión está integrada por la Dra. Isabel Esteban Robladillo en calidad de presidenta, el Dr. Andrés Olivera Chura como vicepresidente académico y el Dr. Luis Alberto Massa Palacios desempeñando el cargo de vicepresidente de Investigación. Estos distinguidos profesionales, en su calidad de miembros de la Comisión Organizadora, han asumido el compromiso ferviente de impulsar el desarrollo de la primera institución universitaria en Tayacaja. Su liderazgo y dedicación son fundamentales para garantizar el éxito y la excelencia en todas las áreas académicas e investigativas de la universidad.</p>
+                        <p>La Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo, establecida mediante la Ley N° 29716, cuenta con una Comisión Organizadora, recientemente designados con la Resolución Viceministerial N° 054-2024-MINEDU, juramentaron como nuevas autoridades universitarias, teniendo como objetivo encaminar el autogobierno de la universidad tayacajina.
+                            En su mensaje, el Dr. Jorge Marino Domínguez Castañeda, presidente de la Comisión Organizadora señaló que uno de los objetivos de la universidad es impulsar el desarrollo de la región y la sociedad, "nos enfocaremos en cumplir los ejes estratégicos, trabajando de la mano con autoridades, docentes, estudiantes y personal administrativo".
+                            En otro momento mencionó que su gestión se caracterizará por la transparencia, cumpliendo las leyes y normativas vigentes, "así como está escrito en las letras del himno unatcino, trabajaremos hasta lograr la meta final; por tanto las puertas de mi despacho están abiertas para recibir cualquier sugerencia".
+                            Por su parte..., </p>
 
-                        <a class="button button-lg button-primary-gradient button-winona" href="contacts.html">Leer mas...</a>
+                        <a class="button button-lg button-primary-gradient button-winona" href="Autoridades.php">Leer mas...</a>
                     </div>
                 </div>
             </div>
