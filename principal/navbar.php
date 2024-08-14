@@ -178,7 +178,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="services.html">Bienestar Social</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="services.html">Bienestar Universitario</a>
                                     <!-- RD Navbar Dropdown-->
                                     <ul class="rd-menu rd-navbar-dropdown">
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Comedor Universitario</a></li>
