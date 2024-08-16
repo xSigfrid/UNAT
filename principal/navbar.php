@@ -9,6 +9,7 @@
                         <!-- RD Navbar Toggle-->
                         <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                         <!-- RD Navbar Brand-->
+                         <!-- IMAGEN PARA BANER PRINCIPAL 1100X 670-->
                         <div class="rd-navbar-brand"><a class="brand" href="./"><img class="brand-logo-dark" src="images/logo.png" alt="" width="122" height="39"/><img class="brand-logo-light" src="images/logo-inverse.png" alt="" width="122" height="39"/></a>
                         </div>
                     </div>
@@ -43,7 +44,7 @@
 
 <!--                                <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Inicio</a>-->
 <!--                                </li>-->
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">La Universidad</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">LA UNIVERSIDAD</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
@@ -82,7 +83,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Admisión</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">ADMISIÓN</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
@@ -121,7 +122,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Pre Grado</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">PRE GRADO</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
@@ -150,22 +151,23 @@
                                     </ul>
                                 </li>
 
-
-                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">Investigación</a>
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">INVESTIGACÍON</a>
                                     <!-- RD Navbar Megamenu-->
                                     <ul class="rd-menu rd-navbar-megamenu">
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title"><a  href="https://vri.unat.edu.pe/">Instituto de Investigación  </a></h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Repositorio</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Articulos Cientificos</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Unidad de Gestion de la Investigacion</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Unidad de Repositorio Institucional</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Unidad de Revistas Cientificas</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Unidad de Fondo Editorial</a></li>
                                             </ul>
                                             <br>
                                             <h6 class="rd-megamenu-title">Dirección de Innovación y Transferencia Tecnológica</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Transparencia Tecnológica</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Propiedad Intelectual</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Reglamento de Innovación y Transferencia Tecnológica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Oferta Tecnológica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Innovación</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Gestion de Patentes</a></li>
                                                 
                                             </ul>
 
@@ -173,7 +175,8 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">Dirección de incubadoras de Empresas</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Reglamentos</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad Mentoria</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad Emprendimiento</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://incuba.unat.edu.pe/">Incuba UNAT </a></li>
                                                 
                                             </ul>
@@ -183,14 +186,58 @@
                                             <ul class="rd-megamenu-list">
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Centro de Idiomas</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://unat.edu.pe/centro-pre-universitario/">Cepre</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://gestion-ambiental.netlify.app/">Gestión Ambiental</a></li>
+                                                
                                             </ul>
                                         </li>
                                     </ul>
                                 </li>
 
+                                <li class="rd-nav-item"><a class="rd-nav-link" href="#">ACADÉMICO</a>
+                                    <!-- RD Navbar Megamenu-->
+                                    <ul class="rd-menu rd-navbar-megamenu">
+                                        <li class="rd-megamenu-item">
+                                            <h6 class="rd-megamenu-title"><a  href="https://vpa.unat.edu.pe/">DIRECCIÓN ADMISIÓN </a></h6>
+                                            <ul class="rd-megamenu-list">
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://admision.unat.edu.pe/2/vacantes/">Unidad de Prosesos de Admisión</a></li>
+                                                
+                                            </ul>
+                                            <br>
+                                            <h6 class="rd-megamenu-title">DIRECCIÓN DE BIENESTAR UNIVERSITARIO</h6>
+                                            <ul class="rd-megamenu-list">
+                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de asistencia social</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de Biblioteca</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de Tópico</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de Psicología</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad Cultura Recreación y Deporte</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Comedor - Bus Universitario</a></li>
+
+                                                                                                
+                                            </ul>
+
+                                        </li>
+                                        <li class="rd-megamenu-item">
+                                            <h6 class="rd-megamenu-title">DIRECCIÓN RESPONSABILIDAD SOCIAL UNIVERSITARIA</h6>
+                                            <ul class="rd-megamenu-list">
+                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad Gestión Social y Cultura</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Extensión Universitaria</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://gestion-ambiental.netlify.app/">Unidad de Gestión Ambiental</a></li>
+                                               
+                                            <br>
+                                            <h6 class="rd-megamenu-title">DIRECCIÓN DE GESTIÓN ACADÉMICA</h6>
+                                            <ul class="rd-megamenu-list">
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Archivos,Servicios Académicos y Estadísticos</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Seguimiento a Egresado y Graduado</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Tutoria y Consejeria Academica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Registros Academicos y Matricula</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+
+                                <!-- RD bienestara universitario version 1
                                 <li class="rd-nav-item"><a class="rd-nav-link" href="services.html">Bienestar Universitario</a>
-                                    <!-- RD Navbar Dropdown-->
+                                    RD Navbar Dropdown
                                     <ul class="rd-menu rd-navbar-dropdown">
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Comedor Universitario</a></li>
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services-2.html">Biblioteca Universitaria</a></li>
@@ -199,7 +246,9 @@
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Cultura Tradición y Deporte</a></li>
                                         <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="services.html">Bus Universitario</a></li>
                                     </ul>
-                                </li>
+                                </li>-->
+                                
+                                
                                 <!--                      <li class="rd-nav-item"><a class="rd-nav-link" href="masonry-blog.html">News</a>-->
                                 <!--                        &lt;!&ndash; RD Navbar Dropdown&ndash;&gt;-->
                                 <!--                        <ul class="rd-menu rd-navbar-dropdown">-->
