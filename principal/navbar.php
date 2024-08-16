@@ -157,17 +157,17 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title"><a  href="https://vri.unat.edu.pe/">Instituto de Investigación  </a></h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">Unidad de Gestion de la Investigacion</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Unidad de Repositorio Institucional</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Unidad de Revistas Cientificas</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="project-page.html">Unidad de Fondo Editorial</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Gestion de la Investigacion</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Repositorio Institucional</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Revistas Cientificas</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Fondo Editorial</a></li>
                                             </ul>
                                             <br>
                                             <h6 class="rd-megamenu-title">Dirección de Innovación y Transferencia Tecnológica</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Oferta Tecnológica</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Innovación</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Gestion de Patentes</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Oferta Tecnológica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Innovación</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vri.unat.edu.pe/">Unidad de Gestion de Patentes</a></li>
                                                 
                                             </ul>
 
@@ -175,8 +175,8 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">Dirección de incubadoras de Empresas</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad Mentoria</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad Emprendimiento</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad Mentoria</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad Emprendimiento</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://incuba.unat.edu.pe/">Incuba UNAT </a></li>
                                                 
                                             </ul>
@@ -184,7 +184,7 @@
                                             <br>
                                             <h6 class="rd-megamenu-title">Dirección de produccion de Bienes y Servicios</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Centro de Idiomas</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Centro de Idiomas</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://unat.edu.pe/centro-pre-universitario/">Cepre</a></li>
                                                 
                                             </ul>
@@ -205,11 +205,11 @@
                                             <h6 class="rd-megamenu-title">DIRECCIÓN DE BIENESTAR UNIVERSITARIO</h6>
                                             <ul class="rd-megamenu-list">
                                             <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de asistencia social</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de Biblioteca</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de Tópico</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad de Psicología</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Unidad Cultura Recreación y Deporte</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">Comedor - Bus Universitario</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Biblioteca</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Tópico</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Psicología</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad Cultura Recreación y Deporte</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Comedor - Bus Universitario</a></li>
 
                                                                                                 
                                             </ul>
@@ -218,17 +218,17 @@
                                         <li class="rd-megamenu-item">
                                             <h6 class="rd-megamenu-title">DIRECCIÓN RESPONSABILIDAD SOCIAL UNIVERSITARIA</h6>
                                             <ul class="rd-megamenu-list">
-                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad Gestión Social y Cultura</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Extensión Universitaria</a></li>
+                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vpa.unat.edu.pe/">Unidad Gestión Social y Cultura</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vpa.unat.edu.pe/">Unidad de Extensión Universitaria</a></li>
                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://gestion-ambiental.netlify.app/">Unidad de Gestión Ambiental</a></li>
                                                
                                             <br>
                                             <h6 class="rd-megamenu-title">DIRECCIÓN DE GESTIÓN ACADÉMICA</h6>
                                             <ul class="rd-megamenu-list">
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="projects.html">Unidad de Archivos,Servicios Académicos y Estadísticos</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Seguimiento a Egresado y Graduado</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Tutoria y Consejeria Academica</a></li>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#">Unidad de Registros Academicos y Matricula</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vpa.unat.edu.pe/">Unidad de Archivos,Servicios Académicos y Estadísticos</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vpa.unat.edu.pe/">Unidad de Seguimiento a Egresado y Graduado</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vpa.unat.edu.pe/">Unidad de Tutoria y Consejeria Academica</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="https://vpa.unat.edu.pe/">Unidad de Registros Academicos y Matricula</a></li>
                                             </ul>
                                         </li>
                                     </ul>
