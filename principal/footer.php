@@ -33,9 +33,8 @@
                     <p class="wow fadeInRight"> Jr. Bolognesi N° 418, Pampas</p>
 
                     <br>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15606.35853184637!2d-75.18945279999998!3d-12.071731199999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2spe!4v1722947781072!5m2!1ses!2spe" width="470" height="170" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-                </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2734.9131391899778!2d-74.87072909962411!3d-12.398652235476927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x910dd4ea85cd4bbd%3A0xd334cf98616ceaac!2sPampas!5e1!3m2!1ses-419!2spe!4v1724109526494!5m2!1ses-419!2spe" width="600" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
             </div>
         </div>
     </div>
