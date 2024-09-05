@@ -26,6 +26,7 @@
                         <li><a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=18675">Transparencia</a></li>
                         <li><a href="https://vri.unat.edu.pe/">Investigacion</a></li>
                         <li><a href="#">contactanos</a></li>
+                        <li><a href="search-results.php">Documentos UNAT</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-xl-5">
