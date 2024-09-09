@@ -7,7 +7,7 @@
     <!-- Swiper-->
     <section class="section swiper-container swiper-slider swiper-slider-2 swiper-slider-3" data-swiper='{"loop":true,"autoplay":{"delay":5000},"simulateTouch":false,"effect":"fade"}'>
         <div class="swiper-wrapper text-sm-start">
-            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide44.jpg">
+            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide44.JPG">
                 <div class="swiper-slide-caption section-md">
                     <div class="container">
                         <div class="row">
@@ -19,7 +19,7 @@
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide333.jpg">
+            <div class="swiper-slide context-dark gradient-overlay" data-slide-bg="images/slide/slide333.JPG">
                 <div class="swiper-slide-caption section-md">
                     <div class="container">
                         <div class="row">
