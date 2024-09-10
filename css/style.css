@@ -875,7 +875,7 @@ a[href*='tel'], a[href*='mailto'] {
 
 .box-icon-classic-title {
 	text-transform: none;
-	letter-spacing: .05em;
+	letter-spacing: .025em;
 }
 
 .box-icon-classic-title a, .box-icon-classic-title a:focus, .box-icon-classic-title a:active {
@@ -921,10 +921,10 @@ a[href*='tel'], a[href*='mailto'] {
 
 @media (min-width: 992px) {
 	.box-icon-classic-icon {
-		height: 90px;
-		width: 90px;
-		font-size: 40px;
-		line-height: 90px;
+		height: 80px;
+		width: 80px;
+		font-size: 30px;
+		line-height: 80px;
 	}
 }
 
@@ -2135,7 +2135,7 @@ h4 + .group-md {
 
 .unit-spacing-md > * {
 	margin-bottom: 20px;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 .unit-spacing-lg {
