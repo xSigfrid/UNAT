@@ -93,7 +93,7 @@
       <section class="section section-lg bg-default">
         <div class="container">
           <!-- #1-->
-          <div class="row row-md row-50">
+          <div class="row row-md row-20">
             <div class="col-sm-6 col-md-4 col-lg-3">
               <article class="box-icon-classic">
                 <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
@@ -101,7 +101,7 @@
                     <div class="box-icon-classic-icon linearicons-phone"></div>
                   </div>
                   <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">ESTATUTO</a></h5>
+                    <h5 class="single-post-title"><a href="single-service.html">ESTATUTO</a></h5>
                    </div>
                 </div>
               </article>
@@ -153,7 +153,7 @@
                     <div class="box-icon-classic-icon linearicons-chart-growth"></div>
                   </div>
                   <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">GUISA DE PROCEDIMIENTOS</a></h5>                    
+                    <h5 class="box-icon-classic-title"><a href="single-service.html">GUÍA DE PROCEDIMIENTOS</a></h5>                    
                   </div>
                 </div>
               </article>
