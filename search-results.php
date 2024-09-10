@@ -1,3 +1,24 @@
+<?php 
+	function listadoDirectorio($directorio){
+	    $listado = scandir($directorio);
+	    unset($listado[array_search('.', $listado, true)]);
+	    unset($listado[array_search('..', $listado, true)]);
+	    if (count($listado) < 1) {
+	        return;
+	    }
+	    foreach($listado as $elemento){
+	    	if(!is_dir($directorio.'/'.$elemento)) {
+	        	echo "<li>- <a href='$directorio/$elemento'>$elemento</a></li>";
+	        }
+	        if(is_dir($directorio.'/'.$elemento)) {
+	        	echo '<li class="open-dropdown">+ '.$elemento.'</li>';
+	    		echo '<ul class="dropdown d-none">';
+	        		listadoDirectorio($directorio.'/'.$elemento);
+	    		echo '</ul>';
+	        }
+	    }
+	}
+?>
 <?php include('principal/header.php') ?>
   <body>
     <div class="preloader">
@@ -67,6 +88,7 @@
                   <button class="button button-sm button-primary-gradient" type="submit">BUSCAR</button>
                 </div>
               </form>
+              <?php listadoDirectorio('documentos'); ?>
               <div class="rd-search-results"></div>
             </div>
           </div>
