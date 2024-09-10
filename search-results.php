@@ -61,7 +61,7 @@
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark bg-image gradient-overlay" style="background-image: url(images/bg-typography.jpg);">
           <div class="container">
-            <h3 class="breadcrumbs-custom-title">ENCUENTRA EL DOCUMENTO QUE NECESITAS</h3>
+            <h3 class="breadcrumbs-custom-title">TRANSPARENCIA UNIVERSITARIA - UNAT</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
@@ -88,6 +88,8 @@
                   <button class="button button-sm button-primary-gradient" type="submit">BUSCAR</button>
                 </div>
               </form>
+              <h3 class="breadcrumbs-custom-title">ENCUENTRA EL DOCUMENTO QUE NECESITAS</h3>
+    
               <?php listadoDirectorio('documentos'); ?>
               <div class="rd-search-results"></div>
             </div>
