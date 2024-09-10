@@ -146,6 +146,12 @@
         </div>
       </div>
     </div>
+    <section class="section section-sm section-inset-3 bg-gray-100 text-center">
+        <div class="container">
+            <div class="owl-carousel owl-style-9" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-xl-items="5" data-margin="30" data-dots="true" data-mouse-drag="false"><a class="clients-jean" href="#"><img src="images/clients-18-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-6-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-2-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-3-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-4-200x90.png" alt="" width="200" height="90"/></a></div>
+        </div>
+    </section>
+
     <?php include('principal/footer.php') ?>
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"> </div>
