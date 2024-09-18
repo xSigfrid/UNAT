@@ -74,22 +74,22 @@
                         <div class="slick-slider carousel-parent" data-arrows="true" data-autoplay="true" data-swipe="true" data-items="1" data-child="#child-carousel-7" data-for="#child-carousel-7" data-slide-effect="true">
                             <div class="item"><img src="images/section2/s5.jpg" alt="" width="670" height="477"/>
                                 <div class="slick-project-caption">
-                                    <div class="slick-project-title">Imagen #1</div>
+                                    <div class="slick-project-title">Recepcion de Credenciales</div>
                                 </div>
                             </div>
                             <div class="item"><img src="images/section2/s2.JPG" alt="" width="670" height="477"/>
                                 <div class="slick-project-caption">
-                                    <div class="slick-project-title">Imagen #2</div>
+                                    <div class="slick-project-title">Vice Presidente Academico</div>
                                 </div>
                             </div>
                             <div class="item"><img src="images/section2/s3.JPG" alt="" width="670" height="477"/>
                                 <div class="slick-project-caption">
-                                    <div class="slick-project-title">Imagen #3</div>
+                                    <div class="slick-project-title">Palabras Vice Presidente Academico</div>
                                 </div>
                             </div>
                             <div class="item"><img src="images/section2/s4.JPG" alt="" width="670" height="477"/>
                                 <div class="slick-project-caption">
-                                    <div class="slick-project-title">Imagen #4</div>
+                                    <div class="slick-project-title">Palabras Vice Presidente de Investigacion</div>
                                 </div>
                             </div>
                         </div>
