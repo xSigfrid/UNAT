@@ -117,7 +117,7 @@
           </div>
         </div>
       </section>
-
+      <h4>LISTADO DE DOCUMENTOS </h4>
     
               <?php listadoDirectorio('documentos'); ?>
               <div class="rd-search-results"></div>
