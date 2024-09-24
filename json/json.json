@@ -20,124 +20,220 @@
  },
  {
   "tipo": "ESTATUTO",
-  "nombre": "1. ESTATUTO UNAT",
+  "nombre": "4. ESTATUTO UNAT V10.pdf",
   "url": "V10 - VIGENTE",
-  "documento": "pdf"
+  "documento": "4. ESTATUTO UNAT V10.pdf"
  },
  {
   "tipo": "TUPA",
-  "nombre": "TUPA 2021 ",
+  "nombre": "TUPA 2021 V00 (VIGENTE).pdf",
   "url": "V00 (VIGENTE)",
-  "documento": "pdf"
+  "documento": "TUPA 2021 V00 (VIGENTE).pdf"
  },
  {
   "tipo": "TUSNE",
-  "nombre": "TUSNE ",
+  "nombre": "TUSNE V00 2023 UNAT.pdf ",
   "url": "V00 2023 UNAT",
-  "documento": "pdf"
+  "documento": "TUSNE V00 2023 UNAT.pdf"
  },
  {
   "tipo": "TUSNE",
-  "nombre": "TUSNE",
+  "nombre": "TUSNE V05 UNAT.pdf",
   "url": "V05 UNAT",
-  "documento": "pdf"
+  "documento": "TUSNE V05 UNAT.pdf"
  },
  {
   "tipo": "TUSNE",
-  "nombre": "TUSNE",
+  "nombre": "TUSNE V01 2024 UNAT (VIGENTE).pdf",
   "url": "V01 2024 UNAT (VIGENTE)",
-  "documento": "pdf"
+  "documento": "TUSNE V01 2024 UNAT (VIGENTE).pdf"
  },
  {
   "tipo": "PLAN ESTRATEGICO",
-  "nombre": "PEI UNAT ",
+  "nombre": "PEI UNAT 2018-2020.pdf",
   "url": "2018-2020",
-  "documento": "pdf"
+  "documento": "PEI UNAT 2018-2020.pdf"
  },
  {
   "tipo": "PLAN ESTRATEGICO",
-  "nombre": "PEI UNAT",
+  "nombre": "PEI UNAT 2020-2022.pdf",
   "url": "2020-2022",
-  "documento": "pdf"
+  "documento": "PEI UNAT 2020-2022.pdf"
  },
  {
   "tipo": "PLAN ESTRATEGICO",
-  "nombre": "PEI UNAT",
+  "nombre": "PEI UNAT 2020-2025.pdf",
   "url": "2020-2025",
-  "documento": "pdf"
+  "documento": "PEI UNAT 2020-2025.pdf"
  },
  {
     "tipo": "PLAN ESTRATEGICO",
-    "nombre": "PEI UNAT",
+    "nombre": "PEI UNAT 2023-2028 (VIGENTE).pdf",
     "url": "2023-2028 (VIGENTE)",
-    "documento": "pdf"
+    "documento": "PEI UNAT 2023-2028 (VIGENTE).pdf"
    },
    {
     "tipo": "PLAN ESTRATEGICO",
-    "nombre": "POI ANUAL",
+    "nombre": "POI ANUAL 2022 UNAT.pdf",
     "url": "2022 UNAT",
-    "documento": "pdf"
+    "documento": "POI ANUAL 2022 UNAT.pdf"
    },
    {
     "tipo": "PLAN ESTRATEGICO",
-    "nombre": "POI ANUAL",
+    "nombre": "POI ANUAL 2024 UNAT(VIGENTE).pdf",
     "url": "2024 UNAT (VIGENTE)",
-    "documento": "pdf"
+    "documento": "POI ANUAL 2024 UNAT(VIGENTE).pdf"
    },
    {
     "tipo": "PLAN ESTRATEGICO",
-    "nombre": "POI MULTIANUAL",
+    "nombre": "POI MULTIANUAL 2023-2025.pdf",
     "url": "2023-2025",
-    "documento": "pdf"
+    "documento": "POI MULTIANUAL 2023-2025.pdf"
    },
    {
     "tipo": "PLAN ESTRATEGICO",
-    "nombre": "PEI MULTIANUAL",
+    "nombre": "POI MULTIANUAL 2024_2026.pdf",
     "url": "2024-2026 ",
-    "documento": "pdf"
+    "documento": "POI MULTIANUAL 2024_2026.pdf"
    },
    {
     "tipo": "PLAN ESTRATEGICO",
-    "nombre": "POI MULTIANUAL",
+    "nombre": "POI MULTIANUAL 2025-2027 (VIGENTE).pdf",
     "url": "2025-2027 (VIGENTE)",
-    "documento": "pdf"
+    "documento": "POI MULTIANUAL 2025-2027 (VIGENTE).pdf"
    },
    {
     "tipo": "DIRECTIVAS",
-    "nombre": "DEL 4 AL 13",
+    "nombre": "DIRECTIVA DE COMBUSTIBLE V00 2024 UNAT (VIGENTE).pdf",
     "url": "POR CARGAR",
-    "documento": "pdf"
+    "documento": "DIRECTIVA DE COMBUSTIBLE V00 2024 UNAT (VIGENTE).pdf"
    },
    {
-    "tipo": "5 GUÍA DE PROCEDIMIENTOS",
-    "nombre": "Por cargar",
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA DE ENCARGOS INTERNOS V02 2018 UNAT (VIGENTE).pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA DE ENCARGOS INTERNOS V02 2018 UNAT (VIGENTE).pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA DE ENTREGA DE CARGOS.pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA DE ENTREGA DE CARGOS.pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA DE PROTECCIÓN DE DATOS.pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA DE PROTECCIÓN DE DATOS.pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA DEL REPOSITORIO UNAT FINAL.pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA DEL REPOSITORIO UNAT FINAL.pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA DISPOSICIONES DE AUSTERIDAD V00 2024 UNAT (VIGENTE).pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA DISPOSICIONES DE AUSTERIDAD V00 2024 UNAT (VIGENTE).pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA PARA EL RECONOCIMIENTO DE LOS SERVIDORES V00 2024 UNAT (VIGENTE).pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA PARA EL RECONOCIMIENTO DE LOS SERVIDORES V00 2024 UNAT (VIGENTE).pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA PARA LA PRESENTACION DE LA MEMORIA ANUAL.pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA PARA LA PRESENTACION DE LA MEMORIA ANUAL.pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA POI APROBADO_V00.pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA POI APROBADO_V00.pdf"
+     },
+     {
+      "tipo": "DIRECTIVAS",
+      "nombre": "DIRECTIVA-CAJA CHICA 2023 APROBADO.pdf",
+      "url": "POR CARGAR",
+      "documento": "DIRECTIVA-CAJA CHICA 2023 APROBADO.pdf"
+     },
+   {
+    "tipo": "GUÍA DE PROCEDIMIENTOS",
+    "nombre": "VPA",
     "url": "pendiente",
     "documento": "pdf"
    },
    {
-    "tipo": "6 INSTRUCTIVOS",
-    "nombre": "Por cargar",
+      "tipo": "GUÍA DE PROCEDIMIENTOS",
+      "nombre": "VPI",
+      "url": "pendiente",
+      "documento": "pdf"
+     },
+   {
+    "tipo": "INSTRUCTIVOS",
+    "nombre": "SIN ARCHIVOS",
     "url": "pendiente",
     "documento": "pdf"
    },
    {
-    "tipo": "7-8 MANUALES",
-    "nombre": "Por cargar",
+    "tipo": "MANUALES",
+    "nombre": "MPP_UNAT 01.08.2022.pdf",
+    "url": "01.08.2022",
+    "documento": "MPP_UNAT 01.08.2022.pdf"
+   },
+   {
+      "tipo": "MANUALES",
+      "nombre": "MANUAL DE SISTEMA DE GESTION DE (I+D+i).pdf",
+      "url": "GESTION DE (I+D+i)",
+      "documento": "MANUAL DE SISTEMA DE GESTION DE (I+D+i).pdf"
+     },
+     {
+      "tipo": "MANUALES",
+      "nombre": "MANUAL TECNICO DE REVISTAS CIENTIFICAS (OJS - PKP).pdf",
+      "url": "MANUAL TECNICO",
+      "documento": "MANUAL TECNICO DE REVISTAS CIENTIFICAS (OJS - PKP).pdf"
+     },
+     {
+        "tipo": "MANUALES",
+        "nombre": "MANUAL TECNICO DEL AULA VIRTUAL EN MOODLE.pdf",
+        "url": "MANUAL TECNICO",
+        "documento": "MANUAL TECNICO DEL AULA VIRTUAL EN MOODLE.pdf"
+       }, 
+       {
+         "tipo": "MANUALES",
+         "nombre": "MANUAL TECNICO DEL REPOSITORIO INSTITUCIONAL DSPACE.pdf",
+         "url": "MANUAL TECNICO",
+         "documento": "MANUAL TECNICO DEL REPOSITORIO INSTITUCIONAL DSPACE.pdf"
+        }, 
+   {
+    "tipo": "NORMA ADMINISTRATIVA INTERNA",
+    "nombre": "SIN ARCHIVOS",
     "url": "pendiente",
     "documento": "pdf"
    },
    {
-    "tipo": "9 NORMA ADMINISTRATIVA INTERNA",
-    "nombre": "Por cargar",
-    "url": "pendiente",
-    "documento": "pdf"
+    "tipo": "POLÍTICA",
+    "nombre": "POLÍTICA AMBIENTAL V00 2024 UNAT.pdf",
+    "url": "POLÍTICA VPA",
+    "documento": "POLÍTICA AMBIENTAL V00 2024 UNAT.pdf"
    },
    {
-    "tipo": "10 POLÍTICA",
-    "nombre": "Por cargar",
-    "url": "pendiente",
-    "documento": "pdf"
-   },
+      "tipo": "POLÍTICA",
+      "nombre": "POLITICA GENERAL DE INVESTIGACION, DESARROLLO EXPERIMENTAL.pdf",
+      "url": "POLÍTICA VPI",
+      "documento": "POLITICA GENERAL DE INVESTIGACION, DESARROLLO EXPERIMENTAL.pdf"
+     },
+     {
+      "tipo": "POLÍTICA",
+      "nombre": "PRINCIPIOS, POLITICAS Y ESTRATEGIAS PARA EL FOEMNTO DE INVESTIGACION.pdf",
+      "url": "POLÍTICA VPI",
+      "documento": "PRINCIPIOS, POLITICAS Y ESTRATEGIAS PARA EL FOEMNTO DE INVESTIGACION.pdf"
+     },
    {
     "tipo": "11-12 REGLAMENTOS",
     "nombre": "Por cargar",
