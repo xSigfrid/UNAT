@@ -30,10 +30,12 @@ var modulo = new Vue({
 
             getDocumentos: function(tipo)
             {
-                console.log(tipo);
+                var urldocumentos= window.location.origin+'/unat/documentos/';
                 this.articulos = []
                   this.array.forEach(element =>{
                     if(element.tipo == tipo){
+                        element.documento = urldocumentos+ element.documento;
+                        console.log(element)
                         this.articulos.push(element)
                     }
                   });

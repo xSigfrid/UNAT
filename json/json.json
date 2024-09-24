@@ -2,22 +2,21 @@
 "Hoja1":[
  {
   "tipo": "ESTATUTO",
-  "nombre": "1. ESTATUTO UNAT", 
+  "nombre": "1.ESTATUTO UNAT V07.pdf", 
   "url": "V07",
-  "ruta":"C:\\xampp\\htdocs\\UNAT\\documentos",
-  "documento":"C:\\xampp\\htdocs\\UNAT\\documentos\\1. ESTATUTO UNAT V07.pdf"
+  "documento":"1.ESTATUTO UNAT V07.pdf"
  },
  {
   "tipo": "ESTATUTO",
-  "nombre": "2. ESTATUTO UNAT",
+  "nombre": "2. ESTATUTO UNAT V08.pdf",
   "url": "V08",
-  "documento": "pdf"
+  "documento": "2. ESTATUTO UNAT V08.pdf"
  },
  {
   "tipo": "ESTATUTO",
-  "nombre": "3. ESTATUTO UNAT",
+  "nombre": "3. ESTATUTO UNAT V09.pdf",
   "url": "V09",
-  "documento": "pdf"
+  "documento": "3. ESTATUTO UNAT V09.pdf"
  },
  {
   "tipo": "ESTATUTO",

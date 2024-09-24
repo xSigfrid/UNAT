@@ -21,42 +21,7 @@
 ?>
 <?php include('principal/header.php') ?>
   <body>
-    
-<<<<<<< HEAD
-      <div class="wrapper-triangle">
-        <div class="pen">
-          <div class="line-triangle">
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-          </div>
-          <div class="line-triangle">
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-          </div>
-          <div class="line-triangle">
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-            <div class="triangle"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-=======
->>>>>>> c70323f5e59631aa14bcb10b080f283eda1e174a
+
     <div class="page">
       <!-- Page Header-->
       <?php include('principal/navbar.php') ?>
@@ -119,7 +84,7 @@
                       <tr v-for="art in articulos">
                         <th scope="row">{{art.nombre}}</th>
                         <td>{{art.url}}</td>
-                        <td><a v-bind:href="art.documento" :download="req.nombre">{{req.nombre}}</a></td>
+                        <td><a v-bind:href="art.documento" :download="art.nombre" style="font-size: 35px;"> <i class="mdi mdi-file-pdf-box"></i>   </a></td>
                       </tr>
                     </tbody>
                   </table>
