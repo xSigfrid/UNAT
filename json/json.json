@@ -2,7 +2,7 @@
 "Hoja1":[
  {
   "tipo": "ESTATUTO",
-  "nombre": "1. ESTATUTO UNAT",
+  "nombre": "1. ESTATUTO UNAT", 
   "url": "V07",
   "documento": "pdf"
  },
@@ -103,9 +103,57 @@
     "documento": "pdf"
    },
    {
-    "tipo": "OTROS DOCUMENTOS",
+    "tipo": "DIRECTIVAS",
     "nombre": "DEL 4 AL 13",
     "url": "POR CARGAR",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "5 GUÍA DE PROCEDIMIENTOS",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "6 INSTRUCTIVOS",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "7-8 MANUALES",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "9 NORMA ADMINISTRATIVA INTERNA",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "10 POLÍTICA",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "11-12 REGLAMENTOS",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "13 PLANES INSTITUCIONALES",
+    "nombre": "Por cargar",
+    "url": "pendiente",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "14 MEMORIA ANUAL",
+    "nombre": "Por cargar",
+    "url": "pendiente",
     "documento": "pdf"
    }
 ]
