@@ -1,88 +1,112 @@
 {
 "Hoja1":[
  {
-  "tipo": "doc",
-  "nombre": "doc 1",
-  "url": "www",
+  "tipo": "ESTATUTO",
+  "nombre": "1. ESTATUTO UNAT",
+  "url": "V07",
   "documento": "pdf"
  },
  {
-  "tipo": "doc",
-  "nombre": "doc 2",
-  "url": "www",
+  "tipo": "ESTATUTO",
+  "nombre": "2. ESTATUTO UNAT",
+  "url": "V08",
   "documento": "pdf"
  },
  {
-  "tipo": "doc",
-  "nombre": "doc 3",
-  "url": "www",
+  "tipo": "ESTATUTO",
+  "nombre": "3. ESTATUTO UNAT",
+  "url": "V09",
   "documento": "pdf"
  },
  {
-  "tipo": "doc",
-  "nombre": "doc 4",
-  "url": "www",
+  "tipo": "ESTATUTO",
+  "nombre": "1. ESTATUTO UNAT",
+  "url": "V10 - VIGENTE",
   "documento": "pdf"
  },
  {
-  "tipo": "documento",
-  "nombre": "doc 5",
-  "url": "www",
+  "tipo": "TUPA",
+  "nombre": "TUPA 2021 ",
+  "url": "V00 (VIGENTE)",
   "documento": "pdf"
  },
  {
-  "tipo": "documento",
-  "nombre": "doc 6",
-  "url": "www",
+  "tipo": "TUSNE",
+  "nombre": "TUSNE ",
+  "url": "V00 2023 UNAT",
   "documento": "pdf"
  },
  {
-  "tipo": "documento",
-  "nombre": "doc 7",
-  "url": "www",
+  "tipo": "TUSNE",
+  "nombre": "TUSNE",
+  "url": "V05 UNAT",
   "documento": "pdf"
  },
  {
-  "tipo": "documento",
-  "nombre": "doc 8",
-  "url": "www",
+  "tipo": "TUSNE",
+  "nombre": "TUSNE",
+  "url": "V01 2024 UNAT (VIGENTE)",
   "documento": "pdf"
  },
  {
-  "tipo": "shining",
-  "nombre": "doc 9",
-  "url": "www",
+  "tipo": "PLAN ESTRATEGICO",
+  "nombre": "PEI UNAT ",
+  "url": "2018-2020",
   "documento": "pdf"
  },
  {
-  "tipo": "shining",
-  "nombre": "doc 10",
-  "url": "www",
+  "tipo": "PLAN ESTRATEGICO",
+  "nombre": "PEI UNAT",
+  "url": "2020-2022",
   "documento": "pdf"
  },
  {
-  "tipo": "shining",
-  "nombre": "doc 11",
-  "url": "www",
+  "tipo": "PLAN ESTRATEGICO",
+  "nombre": "PEI UNAT",
+  "url": "2020-2025",
   "documento": "pdf"
  },
  {
-  "tipo": "tails",
-  "nombre": "doc 12",
-  "url": "www",
-  "documento": "pdf"
- },
- {
-  "tipo": "tails",
-  "nombre": "doc 13",
-  "url": "www",
-  "documento": "pdf"
- },
- {
-  "tipo": "tails",
-  "nombre": "doc 14",
-  "url": "www",
-  "documento": "pdf"
- }
+    "tipo": "PLAN ESTRATEGICO",
+    "nombre": "PEI UNAT",
+    "url": "2023-2028 (VIGENTE)",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "PLAN ESTRATEGICO",
+    "nombre": "POI ANUAL",
+    "url": "2022 UNAT",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "PLAN ESTRATEGICO",
+    "nombre": "POI ANUAL",
+    "url": "2024 UNAT (VIGENTE)",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "PLAN ESTRATEGICO",
+    "nombre": "POI MULTIANUAL",
+    "url": "2023-2025",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "PLAN ESTRATEGICO",
+    "nombre": "PEI MULTIANUAL",
+    "url": "2024-2026 ",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "PLAN ESTRATEGICO",
+    "nombre": "POI MULTIANUAL",
+    "url": "2025-2027 (VIGENTE)",
+    "documento": "pdf"
+   },
+   {
+    "tipo": "OTROS DOCUMENTOS",
+    "nombre": "DEL 4 AL 13",
+    "url": "POR CARGAR",
+    "documento": "pdf"
+   }
 ]
 }
