@@ -22,6 +22,7 @@
 <?php include('principal/header.php') ?>
   <body>
     
+<<<<<<< HEAD
       <div class="wrapper-triangle">
         <div class="pen">
           <div class="line-triangle">
@@ -54,6 +55,8 @@
         </div>
       </div>
     </div>
+=======
+>>>>>>> c70323f5e59631aa14bcb10b080f283eda1e174a
     <div class="page">
       <!-- Page Header-->
       <?php include('principal/navbar.php') ?>
@@ -122,10 +125,9 @@
                   </table>
               </div>
             </div>
-            
           </div>
       </section>
-
+      <h4>LISTADO DE DOCUMENTOS </h4>
     
               <?php listadoDirectorio('documentos'); ?>
               <div class="rd-search-results"></div>
@@ -136,55 +138,7 @@
       
     <!-- Panel Thumbnail-->
     <!-- Template panel-->
-    <div class="layout-panel">
-      <button class="layout-panel-toggle" data-custom-toggle=".layout-panel" data-custom-toggle-disable-on-blur="true"><span></span></button>
-      <div class="layout-panel-scroll">
-        <div class="layout-panel-content">
-          <div class="layout-panel-header"><a class="button button-primary button-icon button-icon-left" href="https://www.templatemonster.com/website-templates/flex-universal-multipurpose-creative-html-website-template-88389.html"><span class="icon mdi mdi-cart-outline"></span>Buy template</a>
-            <div class="layout-panel-element"><a href="../landing/index.html"><img src="../landing/images/logo-default-244x78.png" width="122" height="39" alt=""></a></div>
-          </div>
-          <!-- Isotope Content-->
-          <div class="layout-panel-body"><a class="thumbnail-small" href="../flex-dynamics/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/dynamics.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Dynamics</p>
-                  </div></a><a class="thumbnail-small" href="../flex-flooring/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/flooring.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Flooring</p>
-                  </div></a><a class="thumbnail-small" href="../flex-library/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/library.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Library</p>
-                  </div></a><a class="thumbnail-small" href="../flex-marketing-agency/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/marketing-agency.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Marketing Agency</p>
-                  </div></a><a class="thumbnail-small" href="../flex-pizza/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/pizza.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Pizza</p>
-                  </div></a><a class="thumbnail-small" href="../flex-real-estate/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/real-estate.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Real Estate</p>
-                  </div></a><a class="thumbnail-small" href="../flex-steel-processing/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/steel-processing.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Steel Processing</p>
-                  </div></a><a class="thumbnail-small" href="../flex-transportation/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/transportation.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Transportation</p>
-                  </div></a><a class="thumbnail-small" href="../flex-service-center/index.html">
-                  <div class="thumbnail-small-image"><img src="images/layout-panel/service-center.jpg" alt="" width="380" height="280"></div>
-                  <div class="thumbnail-small-caption">
-                    <p class="thumbnail-small-header">Service Center</p>
-                  </div></a>
-          </div>
-        </div>
-      </div>
-    </div>
+   
     <section class="section section-sm section-inset-3 bg-gray-100 text-center">
         <div class="container">
             <div class="owl-carousel owl-style-9" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-xl-items="5" data-margin="30" data-dots="true" data-mouse-drag="false"><a class="clients-jean" href="#"><img src="images/clients-18-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-6-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-2-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-3-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-4-200x90.png" alt="" width="200" height="90"/></a></div>
