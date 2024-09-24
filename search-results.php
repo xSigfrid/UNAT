@@ -119,7 +119,7 @@
                       <tr v-for="art in articulos">
                         <th scope="row">{{art.nombre}}</th>
                         <td>{{art.url}}</td>
-                        <td>{{art.documento}}</td>
+                        <td><a v-bind:href="art.documento" :download="req.nombre">{{req.nombre}}</a></td>
                       </tr>
                     </tbody>
                   </table>
