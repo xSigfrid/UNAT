@@ -21,7 +21,7 @@
 ?>
 <?php include('principal/header.php') ?>
   <body>
-    <div class="preloader">
+    
       <div class="wrapper-triangle">
         <div class="pen">
           <div class="line-triangle">
@@ -90,208 +90,40 @@
               </form>
               
               <!-- iconos de Busqueda documentaria-->
-      <section class="section section-lg bg-default">
-        <div class="container">
-          <!-- #1-->
-          <div class="row row-md row-20">
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-phone"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="single-post-title"><a href="single-service.html">ESTATUTO</a></h5>
-                   </div>
-                </div>
-              </article>
+      <section class="section section-lg bg-default"  id="json">
+          <div class="container">
+              <div class="row">
+              <div class="col-3">
+                <table class="table table-striped table-bordered">
+            
+                  <tbody>
+                      <tr v-for="articulo in tipoFilter">
+                          <td v-on:click.prevent="getDocumentos(articulo)">{{articulo}}</td>
+                      </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="col-9">
+                <table class="table table-bordered">
+                    <thead>
+                      <tr>
+                          <th scope="col">Documento</th>
+                          <th scope="col">Descripcion</th>
+                          <th scope="col">Descargar</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr v-for="art in articulos">
+                        <th scope="row">{{art.nombre}}</th>
+                        <td>{{art.url}}</td>
+                        <td>{{art.documento}}</td>
+                      </tr>
+                    </tbody>
+                  </table>
+              </div>
             </div>
-            <!-- #2-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">TUPA</a></h5>          
-                  </div>
-                </div>
-              </article>
-            </div>
-            <!-- #3-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">PLAN ESTRATEGICO</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #4-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">DIRECTIVAS</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #5-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">GUÍA DE PROCEDIMIENTOS</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #6-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">INSTRUCTIVOS</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #7-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">MANUAL DE CALIDAD</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #8-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">MANUAL DE USUARIO</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #9-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-growth"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">NORMATIVA ADMINISTRATIVA INTERNA</a></h5>
-                    
-                  </div>
-                </div>
-              </article>
-            </div>
-          <!-- #10-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-settings"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">POLÍTICA</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-            <!-- #11-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-settings"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">REGLAMENTO</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-            <!-- #12-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-settings"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">PLAN INSTITUCIONAL</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-            <!-- #13-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-settings"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">TUSNE</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-            <!-- #14-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-settings"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">MEMORIA ANUAL</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-            <!-- #15-->
-            <div class="col-sm-6 col-md-4 col-lg-3">
-              <article class="box-icon-classic">
-                <div class="unit unit-spacing-md flex-column text-center flex-md-row text-md-start">
-                  <div class="unit-left">
-                    <div class="box-icon-classic-icon linearicons-chart-settings"></div>
-                  </div>
-                  <div class="unit-body">
-                    <h5 class="box-icon-classic-title"><a href="single-service.html">PLANES ESTRATÉGICOS</a></h5>                    
-                  </div>
-                </div>
-              </article>
-            </div>
-
+            
           </div>
-        </div>
       </section>
 
     
