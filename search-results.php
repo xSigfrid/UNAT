@@ -41,12 +41,18 @@
           </ul>
         </div>
       </section>
-      <h4>LISTADO DE DOCUMENTOS </h4>
+
+
+
+
+
       <!-- Search results-->
       <section class="section section-lg bg-default">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-9">
+              <h4> LISTADO DE DOCUMENTOS</h4>
+              <p class="pservices text-justify">LEY Nº 30220, Ley Universitaria Artículo 11. Transparencia de las Universidades Las universidades públicas y privadas tienen la obligación de publicar en sus portales electrónicos, en forma permanente y actualizada, como mínimo, la información correspondiente a los siguientes puntos:</p>
               <!-- RD Search-->
               <form class="rd-form rd-search rd-form-inline rd-form-inline-centered" action="search-results.html" method="GET">
                 <div class="form-wrap">
@@ -57,7 +63,6 @@
                   <button class="button button-sm button-primary-gradient" type="submit">BUSCAR</button>
                 </div>
               </form>
-              
               <!-- iconos de Busqueda documentaria-->
       <section class="section section-lg bg-default"  id="json">
           <div class="container">
@@ -95,7 +100,7 @@
       </section>
       
     
-              <?php listadoDirectorio('documentos'); ?>
+              
               <div class="rd-search-results"></div>
             </div>
           </div>
