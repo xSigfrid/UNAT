@@ -14,7 +14,7 @@ var modulo = new Vue({
         {
             getCamapania: function() {
                 
-                var urlModulo= window.location.origin+'/unat/json/json.json';
+                var urlModulo= window.location.origin+'/json/json.json';
                 axios.get(urlModulo).then(response =>{
                     this.array = response.data.Hoja1;
 
@@ -30,7 +30,7 @@ var modulo = new Vue({
 
             getDocumentos: function(tipo)
             {
-                var urldocumentos= window.location.origin+'/unat/documentos/';
+                var urldocumentos= window.location.origin+'/documentos/';
                 this.articulos = []
                   this.array.forEach(element =>{
                     if(element.tipo == tipo){
