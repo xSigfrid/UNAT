@@ -41,6 +41,7 @@
           </ul>
         </div>
       </section>
+      <h4>LISTADO DE DOCUMENTOS </h4>
       <!-- Search results-->
       <section class="section section-lg bg-default">
         <div class="container">
@@ -92,7 +93,7 @@
             </div>
           </div>
       </section>
-      <h4>LISTADO DE DOCUMENTOS </h4>
+      
     
               <?php listadoDirectorio('documentos'); ?>
               <div class="rd-search-results"></div>
