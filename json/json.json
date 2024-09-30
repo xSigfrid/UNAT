@@ -105,63 +105,69 @@
  {
     "tipo": "DIRECTIVAS",
     "nombre": "DIRECTIVA DE COMBUSTIBLE V00 2024 UNAT (VIGENTE).pdf",
-    "url": "POR CARGAR",
+    "url": "V00 2024 UNAT (VIGENTE)",
     "documento": "DIRECTIVA DE COMBUSTIBLE V00 2024 UNAT (VIGENTE).pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA DE ENCARGOS INTERNOS V02 2018 UNAT (VIGENTE).pdf",
-      "url": "POR CARGAR",
+      "url": "V02 2018 UNAT (VIGENTE)",
       "documento": "DIRECTIVA DE ENCARGOS INTERNOS V02 2018 UNAT (VIGENTE).pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA DE ENTREGA DE CARGOS.pdf",
-      "url": "POR CARGAR",
+      "url": "2024",
       "documento": "DIRECTIVA DE ENTREGA DE CARGOS.pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA DE PROTECCIÓN DE DATOS.pdf",
-      "url": "POR CARGAR",
+      "url": "2024",
       "documento": "DIRECTIVA DE PROTECCIÓN DE DATOS.pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA DEL REPOSITORIO UNAT FINAL.pdf",
-      "url": "POR CARGAR",
+      "url": "FINAL",
       "documento": "DIRECTIVA DEL REPOSITORIO UNAT FINAL.pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA DISPOSICIONES DE AUSTERIDAD V00 2024 UNAT (VIGENTE).pdf",
-      "url": "POR CARGAR",
+      "url": "V00 2024",
       "documento": "DIRECTIVA DISPOSICIONES DE AUSTERIDAD V00 2024 UNAT (VIGENTE).pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA PARA EL RECONOCIMIENTO DE LOS SERVIDORES V00 2024 UNAT (VIGENTE).pdf",
-      "url": "POR CARGAR",
+      "url": "V00 2024",
       "documento": "DIRECTIVA PARA EL RECONOCIMIENTO DE LOS SERVIDORES V00 2024 UNAT (VIGENTE).pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA PARA LA PRESENTACION DE LA MEMORIA ANUAL.pdf",
-      "url": "POR CARGAR",
+      "url": "MEMORIOA ANUAL",
       "documento": "DIRECTIVA PARA LA PRESENTACION DE LA MEMORIA ANUAL.pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA POI APROBADO_V00.pdf",
-      "url": "POR CARGAR",
+      "url": "V00",
       "documento": "DIRECTIVA POI APROBADO_V00.pdf"
  },
  {
       "tipo": "DIRECTIVAS",
       "nombre": "DIRECTIVA-CAJA CHICA 2023 APROBADO.pdf",
-      "url": "POR CARGAR",
+      "url": "2023",
       "documento": "DIRECTIVA-CAJA CHICA 2023 APROBADO.pdf"
  },
+ {
+     "tipo": "DIRECTIVAS",
+     "nombre": "DIRECTIVA DE BIBLIOTECA.pdf",
+     "url": "2024",
+     "documento": "DIRECTIVA DE BIBLIOTECA.pdf"
+},
  {
     "tipo": "GUÍA DE PROCEDIMIENTOS",
     "nombre": "VPA",
@@ -211,6 +217,18 @@
          "documento": "MANUAL TECNICO DEL REPOSITORIO INSTITUCIONAL DSPACE.pdf"
  }, 
  {
+     "tipo": "MANUALES",
+     "nombre": "MANUAL TECNICO DE PAGINAS WEB EN WORDPRESS.pdf",
+     "url": "MANUAL TECNICO",
+     "documento": "MANUAL TECNICO DE PAGINAS WEB EN WORDPRESS.pdf"
+}, 
+{
+     "tipo": "MANUALES",
+     "nombre": "MANUAL TECNICO DEL FONDO EDITORIAL.pdf",
+     "url": "MANUAL TECNICO",
+     "documento": "MANUAL TECNICO DEL FONDO EDITORIAL.pdf"
+}, 
+ {
     "tipo": "NORMA ADMINISTRATIVA INTERNA",
     "nombre": "SIN ARCHIVOS",
     "url": "pendiente",
@@ -235,22 +253,82 @@
       "documento": "PRINCIPIOS, POLITICAS Y ESTRATEGIAS PARA EL FOEMNTO DE INVESTIGACION.pdf"
  },
  {
-    "tipo": "11-12 REGLAMENTOS",
-    "nombre": "Por cargar",
-    "url": "pendiente",
-    "documento": "pdf"
+    "tipo": "REGLAMENTOS",
+    "nombre": "ROF V04 2018 UNAT.pdf",
+    "url": "V04 -2018",
+    "documento": "ROF V04 2018 UNAT.pdf"
  },
  {
-    "tipo": "13 PLANES INSTITUCIONALES",
-    "nombre": "Por cargar",
-    "url": "pendiente",
-    "documento": "pdf"
+     "tipo": "REGLAMENTOS",
+     "nombre": "ROF V05 2019 UNAT.pdf",
+     "url": "V05 -2019",
+     "documento": "ROF V05 2019 UNAT.pdf"
  },
  {
-    "tipo": "14 MEMORIA ANUAL",
-    "nombre": "Por cargar",
-    "url": "pendiente",
-    "documento": "pdf"
+     "tipo": "REGLAMENTOS",
+     "nombre": "ROF V06 2020 UNAT.pdf",
+     "url": "V06 -2020",
+     "documento": "ROF V06 2020 UNAT.pdf"
+ },
+ {
+      "tipo": "REGLAMENTOS",
+      "nombre": "ROF V07 2024 UNAT (VIGENTE).pdf",
+      "url": "V07 -2024",
+      "documento": "ROF V07 2024 UNAT (VIGENTE).pdf"
+ },
+ {
+     "tipo": "REGLAMENTOS",
+     "nombre": "REGLAMENTO INTERNO DE SST_APROBADO_V00.pdf",
+     "url": "SEGURIDAD EN EL TRABAJO",
+     "documento": "REGLAMENTO INTERNO DE SST_APROBADO_V00.pdf"
+ },
+ {
+     "tipo": "REGLAMENTOS",
+     "nombre": "REGLAMENTO DE INFRACCIONES Y SANCIONES.pdf",
+     "url": "REGLAMENTO UNAT",
+     "documento": "REGLAMENTO DE INFRACCIONES Y SANCIONES.pdf"
+ },
+ {
+     "tipo": "REGLAMENTOS",
+     "nombre": "REGLAMENTO ACADEMICO DE ESTUDIANTES V02 2024 UNAT.pdf",
+     "url": "REGLAMENTO UNAT",
+     "documento": "REGLAMENTO ACADEMICO DE ESTUDIANTES V02 2024 UNAT.pdf"
+ },
+ {
+     "tipo": "REGLAMENTOS",
+     "nombre": "REGLAMENTO DE FOMENTO DE LA INVESTIGACIÓN.pdf",
+     "url": "REGLAMENTO UNAT",
+     "documento": "REGLAMENTO DE FOMENTO DE LA INVESTIGACIÓN.pdf"
+ },
+ {
+    "tipo": "PLANES INSTITUCIONALES",
+    "nombre": "PLAN DE DESARROLLO DEL DOCENTE INVESTIGADOR (RENACYT).pdf",
+    "url": "PLAN VPI",
+    "documento": "PLAN DE DESARROLLO DEL DOCENTE INVESTIGADOR (RENACYT).pdf"
+ },
+ {
+    "tipo": "MEMORIA ANUAL",
+    "nombre": "MEMORIA ANUAL 2021 UNAT.pdf",
+    "url": "2021",
+    "documento": "MEMORIA ANUAL 2021 UNAT.pdf"
+ },
+ {
+     "tipo": "MEMORIA ANUAL",
+     "nombre": "MEMORIA ANUAL 2022 UNAT.pdf",
+     "url": "2022",
+     "documento": "MEMORIA ANUAL 2022 UNAT.pdf"
+ },
+ {
+     "tipo": "MEMORIA ANUAL",
+     "nombre": "MEMORIA ANUAL 2023 UNAT.pdf",
+     "url": "2023",
+     "documento": "MEMORIA ANUAL 2023 UNAT.pdf"
+ },
+ {
+     "tipo": "UNIDADES FUNCIONALES",
+     "nombre": "UNIDADES FUNCIONALES UNAT_APROBADO_V00[R].pdf",
+     "url": "V00",
+     "documento": "UNIDADES FUNCIONALES UNAT_APROBADO_V00[R].pdf"
  }
 ]
 }
