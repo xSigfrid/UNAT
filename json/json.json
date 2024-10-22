@@ -1,107 +1,173 @@
 {
 "Hoja1":[
  {
-  "tipo": "ESTATUTO",
-  "nombre": "1.ESTATUTO UNAT V07.pdf", 
+  "tipo": "ARTICULO 11.1",
+  "nombre": "1. ESTATUTO UNAT V07.pdf", 
   "url": "V07",
-  "documento":"1.ESTATUTO UNAT V07.pdf"
+  "documento":"1. ESTATUTO UNAT V07.pdf"
  },
  {
-  "tipo": "ESTATUTO",
+  "tipo": "ARTICULO 11.1",
   "nombre": "2. ESTATUTO UNAT V08.pdf",
   "url": "V08",
   "documento": "2. ESTATUTO UNAT V08.pdf"
  },
  {
-  "tipo": "ESTATUTO",
+  "tipo": "ARTICULO 11.1",
   "nombre": "3. ESTATUTO UNAT V09.pdf",
   "url": "V09",
   "documento": "3. ESTATUTO UNAT V09.pdf"
  },
  {
-  "tipo": "ESTATUTO",
+  "tipo": "ARTICULO 11.1",
   "nombre": "4. ESTATUTO UNAT V10.pdf",
   "url": "V10 - VIGENTE",
   "documento": "4. ESTATUTO UNAT V10.pdf"
  },
  {
-  "tipo": "TUPA",
+     "tipo": "ARTICULO 11.1",
+     "nombre": "5. ESTATUTO UNAT V10.pdf",
+     "url": "V10 - VIGENTE",
+     "documento": "5. ESTATUTO UNAT V10.pdf"
+    },
+ {
+  "tipo": "ARTICULO 11.1",
   "nombre": "TUPA 2021 V00 (VIGENTE).pdf",
   "url": "V00 (VIGENTE)",
   "documento": "TUPA 2021 V00 (VIGENTE).pdf"
  },
  {
-  "tipo": "TUSNE",
+  "tipo": "ARTICULO 11.1",
   "nombre": "TUSNE V00 2023 UNAT.pdf ",
   "url": "V00 2023 UNAT",
   "documento": "TUSNE V00 2023 UNAT.pdf"
  },
  {
-  "tipo": "TUSNE",
+  "tipo": "ARTICULO 11.1",
   "nombre": "TUSNE V05 UNAT.pdf",
   "url": "V05 UNAT",
   "documento": "TUSNE V05 UNAT.pdf"
  },
  {
-  "tipo": "TUSNE",
+  "tipo": "ARTICULO 11.1",
   "nombre": "TUSNE V01 2024 UNAT (VIGENTE).pdf",
   "url": "V01 2024 UNAT (VIGENTE)",
   "documento": "TUSNE V01 2024 UNAT (VIGENTE).pdf"
  },
  {
-  "tipo": "PLAN ESTRATEGICO",
+  "tipo": "ARTICULO 11.1",
   "nombre": "PEI UNAT 2018-2020.pdf",
   "url": "2018-2020",
   "documento": "PEI UNAT 2018-2020.pdf"
  },
  {
-  "tipo": "PLAN ESTRATEGICO",
+  "tipo": "ARTICULO 11.1",
   "nombre": "PEI UNAT 2020-2022.pdf",
   "url": "2020-2022",
   "documento": "PEI UNAT 2020-2022.pdf"
  },
  {
-  "tipo": "PLAN ESTRATEGICO",
+  "tipo": "ARTICULO 11.1",
   "nombre": "PEI UNAT 2020-2025.pdf",
   "url": "2020-2025",
   "documento": "PEI UNAT 2020-2025.pdf"
  },
  {
-   "tipo": "PLAN ESTRATEGICO",
+   "tipo": "ARTICULO 11.1",
    "nombre": "PEI UNAT 2023-2028 (VIGENTE).pdf",
    "url": "2023-2028 (VIGENTE)",
    "documento": "PEI UNAT 2023-2028 (VIGENTE).pdf"
  },
  {
-   "tipo": "PLAN ESTRATEGICO",
+   "tipo": "ARTICULO 11.1",
    "nombre": "POI ANUAL 2022 UNAT.pdf",
    "url": "2022 UNAT",
    "documento": "POI ANUAL 2022 UNAT.pdf"
  },
  {
-   "tipo": "PLAN ESTRATEGICO",
+   "tipo": "ARTICULO 11.1",
    "nombre": "POI ANUAL 2024 UNAT(VIGENTE).pdf",
    "url": "2024 UNAT (VIGENTE)",
    "documento": "POI ANUAL 2024 UNAT(VIGENTE).pdf"
  },
  {
-   "tipo": "PLAN ESTRATEGICO",
+   "tipo": "ARTICULO 11.1",
    "nombre": "POI MULTIANUAL 2023-2025.pdf",
    "url": "2023-2025",
    "documento": "POI MULTIANUAL 2023-2025.pdf"
  },
  {
-   "tipo": "PLAN ESTRATEGICO",
+   "tipo": "ARTICULO 11.1",
    "nombre": "POI MULTIANUAL 2024_2026.pdf",
    "url": "2024-2026 ",
    "documento": "POI MULTIANUAL 2024_2026.pdf"
  },
  {
-   "tipo": "PLAN ESTRATEGICO",
+   "tipo": "ARTICULO 11.1",
    "nombre": "POI MULTIANUAL 2025-2027 (VIGENTE).pdf",
    "url": "2025-2027 (VIGENTE)",
    "documento": "POI MULTIANUAL 2025-2027 (VIGENTE).pdf"
  },
+ {
+     "tipo": "ARTICULO 11.1",
+     "nombre": "PLAN DE DESARROLLO DEL DOCENTE INVESTIGADOR (RENACYT).pdf",
+     "url": "PLAN VPI",
+     "documento": "PLAN DE DESARROLLO DEL DOCENTE INVESTIGADOR (RENACYT).pdf"
+  },
+  {
+     "tipo": "ARTICULO 11.2",
+     "nombre": "ACTAS APROBADAS",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.3",
+     "nombre": "ESTADO FINANCIERO",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.4",
+     "nombre": "RELACION Y NUMERO DE BECAS",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.5",
+     "nombre": "INVERSIONES Y REINVERSIONES",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.6",
+     "nombre": "PROYECTOS DE INVERSION Y GASTOS QUE GENEREN",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.7",
+     "nombre": "RELACION DE PAGOS EXIGIDOS A LOS ALUMNOS",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.8",
+     "nombre": "NUMERO DE ALUMNOS POR FACULTAD",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.9",
+     "nombre": "CONFORMACION DE CUERPO DOCENTE",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
+  {
+     "tipo": "ARTICULO 11.10",
+     "nombre": "NUMERO DE POSTULANTES",
+     "url": "SIN ARCHIVOS",
+     "documento": "SIN ARCHIVOS"
+  },
  {
     "tipo": "DIRECTIVAS",
     "nombre": "DIRECTIVA DE COMBUSTIBLE V00 2024 UNAT (VIGENTE).pdf",
@@ -300,12 +366,7 @@
      "url": "REGLAMENTO UNAT",
      "documento": "REGLAMENTO DE FOMENTO DE LA INVESTIGACIÓN.pdf"
  },
- {
-    "tipo": "PLANES INSTITUCIONALES",
-    "nombre": "PLAN DE DESARROLLO DEL DOCENTE INVESTIGADOR (RENACYT).pdf",
-    "url": "PLAN VPI",
-    "documento": "PLAN DE DESARROLLO DEL DOCENTE INVESTIGADOR (RENACYT).pdf"
- },
+
  {
     "tipo": "MEMORIA ANUAL",
     "nombre": "MEMORIA ANUAL 2021 UNAT.pdf",
