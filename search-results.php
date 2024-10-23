@@ -33,13 +33,7 @@
             <div class="breadcrumbs-custom-decor"></div>
           </div>
         </div>
-        <div class="container">
-          <ul class="breadcrumbs-custom-path">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="#">Pages</a></li>
-            <li class="active">Search Results</li>
-          </ul>
-        </div>
+        
       </section>
 
 
