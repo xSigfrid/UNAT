@@ -7,17 +7,17 @@ var modulo = new Vue({
         articulos:[],
         array : [],
         tipo : [],
-        tipoFilter : []
+        tipoFilter : [],
+        busquedaDocumento:''
     },
   
     methods:
         {
             getCamapania: function() {
-                
-                var urlModulo= window.location.origin+'/json/json.json';
+
+                var urlModulo= window.location.origin+'/unat/json/json.json';
                 axios.get(urlModulo).then(response =>{
                     this.array = response.data.Hoja1;
-
                     this.array.forEach(element => {
                         this.tipo.push(element.tipo)
                     });
@@ -30,17 +30,24 @@ var modulo = new Vue({
 
             getDocumentos: function(tipo)
             {
-                var urldocumentos= window.location.origin+'/documentos/';
+                var urldocumentos= window.location.origin+'/unat/documentos/';
                 this.articulos = []
                   this.array.forEach(element =>{
                     if(element.tipo == tipo){
                         element.documento = urldocumentos+ element.documento;
-                        console.log(element)
                         this.articulos.push(element)
                     }
                   });
-                console.log(this.articulos);
-            }
+            },
+            busquedaDocumentoFiltro: function (textoFilter){
+                if(textoFilter  ===null ){
+                }
+                else {
+                    this.articulos = []
+                    let expresion = new RegExp(`${textoFilter}.*`, "i");
+                    this.articulos = this.array.filter(x => expresion.test(x.nombre));
+                }
+            },
            
         },
 });

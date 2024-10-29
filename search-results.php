@@ -39,7 +39,7 @@
 
 
 
-
+<div   id="json" >
       <!-- Search results-->
       <section class="section section-lg bg-default">
         <div class="container">
@@ -48,17 +48,20 @@
               <h4> LISTADO DE DOCUMENTOS</h4>
               <p class="pservices text-justify">LEY Nº 30220, Ley Universitaria Artículo 11. Transparencia de las Universidades Las universidades públicas y privadas tienen la obligación de publicar en sus portales electrónicos, en forma permanente y actualizada, como mínimo, la información correspondiente a los siguientes puntos:</p>
               <!-- RD Search-->
-              <form class="rd-form rd-search rd-form-inline rd-form-inline-centered" action="search-results.html" method="GET">
+
                 <div class="form-wrap">
-                  <label class="form-label" for="rd-search-form-input">Escribe nombre del documento</label>
-                  <input class="form-input" id="rd-search-form-input" type="text" name="s" autocomplete="off">
+                    <input class="form-input"  type="text" placeholder="Buscar por nombre de documento." autocomplete="off" v-model="this.busquedaDocumento" @keyup.enter="busquedaDocumentoFiltro(this.busquedaDocumento)"/>
+
                 </div>
-                <div class="form-wrap form-button">
-                  <button class="button button-sm button-primary-gradient" type="submit">BUSCAR</button>
-                </div>
-              </form>
+
+
+                <div class="rd-search-results"></div>
+            </div>
+          </div>
+        </div>
+      </section>
               <!-- iconos de Busqueda documentaria-->
-      <section class="section section-lg bg-default"  id="json">
+      <section class="section section-lg bg-default" style="cursor: pointer">
           <div class="container">
               <div class="row">
               <div class="col-3">
@@ -92,14 +95,9 @@
             </div>
           </div>
       </section>
-      
+
     
-              
-              <div class="rd-search-results"></div>
-            </div>
-          </div>
-        </div>
-      </section>
+
       
     <!-- Panel Thumbnail-->
     <!-- Template panel-->
@@ -109,7 +107,7 @@
             <div class="owl-carousel owl-style-9" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-xl-items="5" data-margin="30" data-dots="true" data-mouse-drag="false"><a class="clients-jean" href="#"><img src="images/clients-18-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-6-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-2-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-3-200x90.png" alt="" width="200" height="90"/></a><a class="clients-jean" href="#"><img src="images/clients-4-200x90.png" alt="" width="200" height="90"/></a></div>
         </div>
     </section>
-
+</div>
     <?php include('principal/footer.php') ?>
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"> </div>
