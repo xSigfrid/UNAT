@@ -53,8 +53,6 @@
                     <input class="form-input"  type="text" placeholder="Buscar por nombre de documento." autocomplete="off" v-model="this.busquedaDocumento" @keyup.enter="busquedaDocumentoFiltro(this.busquedaDocumento)"/>
 
                 </div>
-
-
                 <div class="rd-search-results"></div>
             </div>
           </div>
@@ -87,7 +85,19 @@
                       <tr v-for="art in articulos">
                         <th scope="row">{{art.nombre}}</th>
                         <td>{{art.url}}</td>
-                        <td><a v-bind:href="art.documento" :download="art.nombre" style="font-size: 35px;"> <i class="mdi mdi-file-pdf-box"></i>   </a></td>
+                        <td>
+
+                            <div v-if="art.documento !='http://localhost/unat/documentos/SIN ARCHIVOS' ">
+                                <a v-bind:href="art.documento" :download="art.nombre" style="font-size: 35px;"> <i class="mdi mdi-file-pdf-box"></i>   </a>
+                            </div>
+                            <div v-if="art.documento =='http://localhost/unat/documentos/SIN ARCHIVOS' ">
+                                <label for=""><strong>Sin archivo</strong> </label>
+                            </div>
+
+
+
+
+                        </td>
                       </tr>
                     </tbody>
                   </table>
